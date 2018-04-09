@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am91">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Experimentando cos alimentos e cos cosméticos</item>
+    </string-array>
+    <string-array name="hm91">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+     </string-array>
+    <string-array name="am92">
+        <!--0-->  <item>Atelier Postal: arte postal</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Patinaxe Slalom (iniciación)</item>
+        <!--3-->   <item>ZumbaR</item>
+    </string-array>
+    <string-array name="hm92">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-22h</item>
+        <!--3-->   <item>22-23h</item>
+    </string-array>
+    <string-array name="am93">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Graffiti (iniciación)</item>
+        <!--2-->   <item>Sushi, delicia xaponesa</item>
+    </string-array>
+    <string-array name="hm93">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>20,30-00h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+     <string-array name="am94">
+        <!--0-->   <item>Descobre o teatro por dentro</item>
+        <!--1-->   <item>Representación "O Furancho"</item>
+        <!--2-->   <item>Teatro fórum</item>
+    </string-array>
+    <string-array name="hm94">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>21,30h</item>
+        <!--2-->   <item>22,30h</item>
+    </string-array>
+    <string-array name="am95">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="hm95">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="am96">
+        <!--0-->   <item>Billarda</item>
+        <!--1-->   <item>Deporte adaptado: volei</item>
+    </string-array>
+    <string-array name="hm96">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="am97">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <string-array name="hm97">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+
+
+</resources>

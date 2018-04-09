@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aranzazu.appnoites15"
+    android:versionCode="8"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <permission
+        android:name="com.aranzazu.appnoites15.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.aranzazu.appnoites14.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <supports-screens android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icono"
+        android:label="@string/name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity android:name="com.aranzazu.appnoites15.Principal" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Noites" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Inicio" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Localizaciones" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Programa" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Colaboradores" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Xaneiro" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Febrero" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Marzo" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Abril" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.DiasXaneiro" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.DiasFebreiro" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.DiasMarzo" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.DiasAbril" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Folleto" >
+        </activity>
+        <activity android:name="com.aranzazu.appnoites15.Grid" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyC0_348eyfz86dp2YobW98huAkCXjW4kgg" />
+    </application>
+
+</manifest>

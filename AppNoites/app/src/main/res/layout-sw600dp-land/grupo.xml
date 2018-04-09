@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="40dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="25dip"
+        android:cacheColorHint="@android:color/transparent"
+        android:mode="oneLine"
+        android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft" >
+
+        <com.aranzazu.appnoites15.CustomTextView
+            android:id="@+id/text_actividades"
+            style="@style/estilo1_pestañas_tablet"
+            android:layout_marginBottom="-2dip"
+            android:layout_marginTop="25dip"
+            android:gravity="center_vertical"
+            fuentes:fuente="Museo" />
+    </LinearLayout>
+
+</LinearLayout>

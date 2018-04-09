@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ax41">
+        <!--0-->   <item>Paseo nocturno polo río Gafos e chocolatada</item>
+    </string-array>
+    <string-array name="hx41">
+        <!--0-->   <item>20-23h</item>
+    </string-array>
+    <string-array name="ax42">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Patinaxe e xoquei patíns</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Unha cita con Europa: Letonia, Hungría e Italia</item>
+        <!--4-->   <item>Obradoiro de ligue e sedución</item>
+        <!--5-->   <item>Xogos de cartas de velocidade</item>
+    </string-array>
+    <string-array name="hx42">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21,30-23,30h</item>
+        <!--5-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="ax43">
+        <!--0-->   <item>Facemos pan?</item>
+        <!--1-->   <item>Do it yourself: roupa e decoración</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="hx43">
+        <!--0-->   <item>21-23h</item>
+        <!--0-->   <item>21-23,30h</item>
+        <!--0-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="ax44">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Improvisación coa guitarra</item>
+    </string-array>
+    <string-array name="hx44">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+    </string-array>
+
+    <string-array name="ax45">
+        <!--0-->   <item>Fútbol Sala</item>
+    </string-array>
+    <string-array name="hx45">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+</resources>

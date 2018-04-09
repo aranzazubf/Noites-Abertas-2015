@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am61">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Robótica básica</item>
+        <!--2-->   <item>Os Xogos da Fame</item>
+
+    </string-array>
+    <string-array name="hm61">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+        <!--2-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="am62">
+        <!--0-->  <item>Atelier Postal: arte postal</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Facemos pan?</item>
+        <!--3-->   <item>ZumbaR</item>
+        <!--4-->   <item>Pins e chapas persoalizadas</item>
+    </string-array>
+    <string-array name="hm62">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-23h</item>
+        <!--4-->   <item>22-23h</item>
+    </string-array>
+       <string-array name="am63">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Graffiti (iniciación)</item>
+        <!--2-->   <item>Relaxación divertida</item>
+    </string-array>
+    <string-array name="hm63">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20,30-00h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+      <string-array name="am64">
+        <!--0-->   <item>Tiro con arco (iniciación)</item>
+        <!--1-->   <item>Billarda</item>
+    </string-array>
+    <string-array name="hm64">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+</resources>

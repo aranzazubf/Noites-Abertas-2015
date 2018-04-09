@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+                  
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo1_pestañas"
+            android:gravity="center_horizontal"
+            android:text="@string/actividades_programa"
+            fuentes:fuente="Museo"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="20dp" />
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/xaneiro"
+                android:onClick="sendMessage0"
+                android:layout_column="0"
+                android:layout_margin="5dp" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/febreiro"
+                android:layout_column="1"
+                android:onClick="sendMessage1"
+                android:layout_margin="5dp" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/tabrowprogramasw600">
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marzo"
+                android:onClick="sendMessage2"
+                android:layout_margin="5dp" />
+            <Button
+                android:id="@+id/button3"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/abril"
+                android:onClick="sendMessage3"
+
+                android:layout_margin="5dp" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+
+</LinearLayout>
+
+

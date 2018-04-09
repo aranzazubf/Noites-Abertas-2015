@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+          <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:orientation="vertical">
+                  
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo1_pestañas_tablet"
+            android:layout_marginTop="50dp"
+            android:gravity="center_horizontal"
+            android:text="@string/actividades_programa"
+            fuentes:fuente="Museo"
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="center_horizontal" />
+        
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center_vertical|center"
+            android:orientation="vertical"
+            android:layout_margin="20dp">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_gravity="top|center_horizontal"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/xaneiro"
+                    android:onClick="sendMessage0"
+                    android:layout_column="0"
+                    android:layout_gravity="left"
+                    android:gravity="left" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/febreiro"
+                    android:onClick="sendMessage1"
+                    android:layout_column="1"
+                    android:layout_gravity="right"
+                    android:gravity="right" />
+            </TableRow>
+            
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:id="@+id/tabrowprogramasw600"
+                android:layout_gravity="center"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/marzo"
+                    android:onClick="sendMessage2"
+                    android:singleLine="true" />
+                <Button
+                    android:id="@+id/button3"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/abril"
+                    android:onClick="sendMessage3"
+                    android:layout_column="0"
+                    android:layout_gravity="right" />
+
+
+            </TableRow>
+
+        </TableLayout>
+        </LinearLayout>
+
+
+<!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/layout-sw600dp/programa.xml -->

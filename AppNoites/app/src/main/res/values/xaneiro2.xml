@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ax21">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Cestaría Tradicional</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Aproveitamento de doces de Nadal</item>
+        <!--4-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="hx21">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="ax22">
+        <!--0-->   <item>Baile galego (iniciación)</item>
+        <!--1-->   <item>Facemos pan?</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="hx22">
+        <!--0-->   <item>19,30-21h</item>
+        <!--1-->   <item>21-23h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="ax23">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Combo de improvisación (iniciación)</item>
+    </string-array>
+    <string-array name="hx23">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+    </string-array>
+    <string-array name="ax24">
+        <!--0-->   <item>Tiro con arco</item>
+        <!--1-->   <item>Deporte adaptado: fútbol</item>
+    </string-array>
+    <string-array name="hx24">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="ax25">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <string-array name="hx25">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+
+
+
+
+
+</resources>

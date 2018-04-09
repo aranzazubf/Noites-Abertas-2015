@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="af51">
+        <!--0-->   <item>A ciencia dos efectos especiais</item>
+        <!--1-->   <item>Cócteis sen alcohol</item>
+    </string-array>
+    <string-array name="hf51">
+        <!--0-->   <item>18-21h</item>
+        <!--1-->   <item>19,30-20,30h</item>
+    </string-array>
+    <string-array name="af52">
+        <!--0-->   <item>Xogos predeportivos e sensoriais</item>
+        <!--1-->   <item>Fofuchas</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Baile latino</item>
+        <!--4-->   <item>Amor e sexo: mitos</item>
+    </string-array>
+    <string-array name="hf52">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>22-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af53">
+        <!--0-->   <item>Cociña para estudantes: pizzas vexetarianas</item>
+        <!--1-->   <item>Broches e pins de Cartapesta</item>
+        <!--2-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="hf53">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>22,30-00,30h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af54">
+        <!--0-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+    </string-array>
+    <string-array name="hf54">
+        <!--0-->   <item>22-23h</item>
+    </string-array>
+
+
+</resources>

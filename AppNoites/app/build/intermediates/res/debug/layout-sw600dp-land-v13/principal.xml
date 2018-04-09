@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="horizontal"
+    android:weightSum="1">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.50"
+        android:layout_gravity="center_horizontal">
+        <Button
+            style="@style/estilo_boton_principal_tablet"
+            android:text="@string/principal0"
+            android:id="@+id/boton" />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo1_tablet"
+            android:text="@string/principal1"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp" />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo2_tablet"
+            android:text="@string/principal2"
+            android:layout_marginBottom="20dp" />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_tablet"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="principal1"
+            android:text="@string/principal3"
+            android:layout_marginTop="30dp" />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_tablet"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="principal2"
+            android:text="@string/principal4"
+            />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_tablet"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="principal3"
+            android:text="@string/principal5"
+            />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_tablet"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="principal4"
+            android:text="@string/principal6"
+            />
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_tablet"
+            android:clickable="true"
+            android:gravity="left"
+            android:onClick="principal5"
+            android:text="@string/principal7"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.50"
+        android:layout_gravity="center">
+    <ImageView
+        android:id="@+id/p3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/logos3"
+        android:contentDescription="@string/principal"
+        android:layout_gravity="center" />
+</LinearLayout>
+</LinearLayout><!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/layout-sw600dp-land/principal.xml -->

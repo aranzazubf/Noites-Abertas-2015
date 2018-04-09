@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="am71">
+        <!--0-->   <item>Tecnomaxia</item>
+
+    </string-array>
+    <string-array name="hm71">
+        <!--0-->   <item>18,30h</item>
+
+    </string-array>
+
+</resources>

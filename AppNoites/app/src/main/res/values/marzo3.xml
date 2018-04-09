@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am31">
+        <!--0-->   <item>Aníma-Te: stop motion</item>
+        <!--1-->   <item>Ex-libris: personaliza os teus libros</item>
+    </string-array>
+    <string-array name="hm31">
+        <!--0-->   <item>18-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="am32">
+        <!--0-->   <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Ganchillo e calceta: buff</item>
+        <!--3-->   <item>Obradoiro de ligue e sedución</item>
+        <!--4-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="hm32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-00h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="am33">
+        <!--0-->   <item>Fotografía do 1851: colodión húmido</item>
+        <!--1-->   <item>Relaxación divertida</item>
+        <!--2-->   <item>Retoque fotográfico (iniciación)</item>
+    </string-array>
+    <string-array name="hm33">
+        <!--0-->   <item>20-00h</item>
+        <!--1-->   <item>22-00h</item>
+        <!--2-->   <item>21-00h</item>
+    </string-array>
+    <string-array name="am34">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+     </string-array>
+    <string-array name="hm34">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+
+    <string-array name="am35">
+        <!--0-->   <item>Observación astronómica</item>
+    </string-array>
+    <string-array name="hm35">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+  </resources>

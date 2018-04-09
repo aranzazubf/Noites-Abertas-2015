@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    <com.aranzazu.appnoites15.CustomTextView
+        android:id="@+id/line_ap"
+        style="@style/estilo2_horas_tablet"/>
+    <com.aranzazu.appnoites15.CustomTextView
+        android:id="@+id/line_bp"
+        style="@style/estilo3_actividades_tablet"/>
+    <ImageView
+        android:id="@+id/icp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/icp2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

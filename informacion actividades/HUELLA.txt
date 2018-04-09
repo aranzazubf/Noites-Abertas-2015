@@ -1,0 +1,35 @@
+
+Tipo de Almacén de Claves: JKS
+Proveedor de Almacén de Claves: SUN
+
+Su almacén de claves contiene 1 entrada
+
+Nombre de Alias: noites
+Fecha de Creación: 09-dic-2014
+Tipo de Entrada: PrivateKeyEntry
+Longitud de la Cadena de Certificado: 1
+Certificado[1]:
+Propietario: CN=Aranzazu Barbero, OU=ABF, O=ABF, L=Vilagarcia de Arousa, ST=Pont
+evedra
+Emisor: CN=Aranzazu Barbero, OU=ABF, O=ABF, L=Vilagarcia de Arousa, ST=Pontevedr
+a
+Número de serie: 5fb55601
+Válido desde: Tue Dec 09 21:26:26 CET 2014 hasta: Sun Nov 29 21:26:26 CET 2054
+Huellas digitales del Certificado:
+         MD5: E1:57:A0:DF:FB:71:E3:E1:49:14:40:A1:9E:7C:37:09
+         SHA1: 0F:E5:8E:41:B6:98:55:04:5B:D8:50:EE:D6:73:6A:97:E0:E6:49:A0
+         SHA256: 82:B6:13:ED:13:27:9B:EE:CC:26:1E:D9:A8:A3:12:FE:21:40:1C:EC:67:
+07:B2:3D:7C:F8:7C:6B:7A:57:B1:89
+         Nombre del Algoritmo de Firma: SHA256withRSA
+         Versión: 3
+
+Extensiones:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B6 B8 CD AD C2 19 B1 F6   4E 65 A8 33 0C D7 F1 21  ........Ne.3...!
+0010: 1F 26 50 FF                                        .&P.
+]
+]
+

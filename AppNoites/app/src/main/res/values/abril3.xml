@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa31">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="ha31">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+    <string-array name="aa32">
+        <!--0-->   <item>Travesía en kaiak polas pontes do Lérez</item>
+    </string-array>
+    <string-array name="ha32">
+        <!--0-->   <item>20-23h</item>
+    </string-array>
+     <string-array name="aa33">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Desinhibición de rúa</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>FlashMob (ensaio)</item>
+        <!--4-->   <item>Coiro: espello forrado</item>
+        <!--5-->   <item>Postres para intolerantes: sen gluten</item>
+    </string-array>
+    <string-array name="ha33">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-23,30h</item>
+        <!--5-->   <item>21-00h</item>
+    </string-array>
+    <string-array name="aa34">
+        <!--0-->   <item>Graffiti (iniciación)</item>
+        <!--1-->   <item>Xoiería vexetal</item>
+        <!--2-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="ha34">
+        <!--0-->   <item>20,30-00h</item>
+        <!--1-->   <item>21,30-23,30h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="aa35">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <string-array name="ha35">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+  </resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am81">
+        <!--0-->   <item>Encadernacidón ecolóxica</item>
+        <!--1-->   <item>Comunicacións extraplanetarias</item>
+        <!--2-->   <item>Teatro: Pan! Pan!</item>
+    </string-array>
+    <string-array name="hm81">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+        <!--2-->   <item>21h</item>
+    </string-array>
+    <string-array name="am82">
+        <!--0-->  <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Desinhibición de rúa</item>
+        <!--2-->   <item>Pintura-Plakatstil</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>Chocolates para Pascua</item>
+    </string-array>
+    <string-array name="hm82">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="am83">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="hm83">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="am84">
+        <!--0-->   <item>Time Lapse: vídeos con fotos</item>
+        <!--1-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="hm84">
+        <!--0-->   <item>21-00h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="am85">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+    </string-array>
+    <string-array name="hm85">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+</resources>

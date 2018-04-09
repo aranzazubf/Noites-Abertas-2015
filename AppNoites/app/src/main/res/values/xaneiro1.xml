@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ax11">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Ganchillo e calceta: gorro</item>
+        <!--2-->   <item>Animación con StopMotion e Cut Out</item>
+        <!--3-->   <item>Baile latino</item>
+        <!--4-->   <item>Ligar con lingua de signos (15-17 anos)</item>
+        <!--5-->   <item>Xogos de cartas de velocidade</item>
+        <!--6-->   <item>Tenis de mesa libre</item>
+
+    </string-array>
+    <string-array name="hx11">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>21-00h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>21,30–00h</item>
+
+    </string-array>
+      <string-array name="ax12">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--2-->   <item>Baile deportivo en grupo</item>
+    </string-array>
+    <string-array name="hx12">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+        <!--2-->   <item>22,30-00h </item>
+    </string-array>
+    <string-array name="ax13">
+        <!--0-->   <item>Dj Mixing e produción</item>
+    </string-array>
+    <string-array name="hx13">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+</resources>

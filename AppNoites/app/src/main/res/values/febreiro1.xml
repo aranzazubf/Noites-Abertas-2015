@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+         <string-array name="af11">
+            <!--0-->   <item>Esgrima e loita escénica</item>
+            <!--1-->   <item>Ganchillar é doado</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Speed Dating:  14-17 anos</item>
+            <!--4-->   <item>TeleNoites</item>
+            <!--5-->   <item>Baile latino</item>
+            <!--6-->   <item>Cociña enerxética</item>
+            <!--7-->   <item>Sorteo Noites Abertas</item>
+        </string-array>
+        <string-array name="hf11">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>20-23h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>20,30-22h</item>
+            <!--4-->   <item>21h</item>
+            <!--5-->   <item>22-23,30h</item>
+            <!--6-->   <item>22-00h</item>
+            <!--7-->   <item>23h</item>
+        </string-array>
+
+        <string-array name="af12">
+            <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+            <!--1-->   <item>Flores e orellas de Entroido</item>
+            <!--2-->   <item>Mecánica básica de bicis</item>
+            <!--3-->   <item>Masaxe tailandesa</item>
+        </string-array>
+        <string-array name="hf12">
+            <!--0-->   <item>20-21,30h</item>
+            <!--1-->   <item>21-23h</item>
+            <!--2-->   <item>20-22h</item>
+            <!--3-->   <item>22-00h</item>
+        </string-array>
+        <string-array name="af13">
+            <!--0-->   <item>Dj Mixing e produción</item>
+            <!--1-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+        </string-array>
+        <string-array name="hf13">
+            <!--0-->   <item>20,30-22,30h</item>
+            <!--1-->   <item>22-23h</item>
+        </string-array>
+    </resources>
+

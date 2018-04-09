@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="col1">Colaboradores</string>
+    <string name="col2"><u><b>ENTIDADES QUE PARTICIPAN EN NOITES ABERTAS E COAS QUE PODES CONTACTAR A TRAVÉS DAS ACTIVIDADES</b></u></string>
+    <string name="col3"><b>ASOCIACIÓNS E CLUBES:</b></string>
+    <string name="col4"><b>Asociación Astronómica Rías Baixas:</b> observación astronómica"\n"
+        <b>Asociación Cultural 105 Besos:</b> desinhibición de rúa "\n"
+        <b>Asociación Cultural Tralovalo:</b> percusión tradicional (pandeireta, tarrañolas, tambor)"\n"
+        <b>Asociación Cultural Trépia:</b> baile galego"\n"
+        <b>Asociación Danzit.es:</b> danza contemporánea e Zumba®"\n"
+        <b>Asociación de Síndrome de Down "Xuntos":</b> programa acompañamento no ocio a persoas con discapacidade intelectual "\n"
+        <b>Asociación Deportiva Izel United Skate e BMX: </b> mecánica básica de bicis"\n"
+        <b>Asociación Galega de Percutas OMAR:</b> djembé"\n"
+        <b>Asociación Galega do Profesorado: </b> Servizo de Voluntariado Europeo, baile deportivo en grupo, camisetas e bolsos “Batik” e “Unha cita con Europa:Italia, Letonia e Hungría” "\n"
+        <b>Asociación Os Chichisos:</b> obradoiro “Música de andar por casa. Instrumentos humildes da música tradicional”"\n"
+        <b>APDR:</b> ruta guiada polo Lérez: estudo da flora e obradoiro de elaboración dun herbario"\n"
+        <b>Arco Teucro:</b> tiro con arco"\n"
+        <b>CAFyD. Clube Deportivo CC. da Actividade Física e do Deporte:</b> torneo de fútbol sala, fútbol 7 e fútbol sala"\n"
+        <b>CCANVIHAR:</b> obradoriro de sexualidade"\n"
+        <b>AMFIV (Asoc. Minusválidos Físicos de Vigo):</b> 3x3 baloncesto en cadeira de rodas"\n"
+        <b>Club Baloncesto Estudantes de Pontevedra:</b> 3x3 baloncesto en cadeira de rodas"\n"
+        <b>Escola Hungaresa de Esgrima Pontevedra:</b>esgrima e loita escénica"\n"
+        <b>Escola Xadrez Pontevedra:</b> xadrez (iniciación e partidas rápidas)"\n"
+        <b>Escola de Tempo Libre Barlovento:</b> ruta cicloturística nocturna e travesía en kaiak polas pontes do Lérez"\n"
+        <b>Llu Llu Teatro:</b> espectáculo promocional de  NNAA"\n"
+        <b>Mareantes Feminino Rugby Club: </b> rugby"\n"
+        <b>Vailoporío:</b> paseo nocturno polo Gafos con chocolatada"\n"</string>
+
+    <string name="col5"><b>EMPRESAS:</b></string>
+    <string name="col6">
+        <b>Anias:</b> cociña"\n"
+        <b>Estouche Ben! Centro de Terapias:</b> Taichi e Chikung, artes marciais internas"\n"
+        <b>Etnoga. Patrimonio Cultural:</b> Noites de Lingua de signos"\n"
+        <b>Fogar12Fogar:</b> flores e orellas de Entroido e Chocolates para Pascua"\n"
+        <b>Ibuprofeno Teatro:</b> "Descobre o teatro por dentro", representación: "O Furancho", teatro forum"\n"
+        <b>Clínica del Masaje:</b> masaxe tailandesa"\n"
+        <b>Nova Xestión Cultural:</b>Campaña publicitaria e  APP Noites Abertas"\n"
+        <b>Paralel Store S.L:</b> iniciación á patinaxe e xoquei en patíns"\n"
+        <b>Risotadas:</b> cestaría tradicional, caixón flamenco e rutas en patíns"\n"
+        <b>Singenerodedudas CB:</b> páxina web"\n"
+        <b>The Out Back Languages:</b> ligar con lingua de signos"\n"
+        <b>Todo Eventos Galicia:</b>fofuchas"\n"
+        <b>Ventos, estudos ambientais:</b> ex-libris: personaliza os teus libros, encadernación eco, comendo os recursos: marmeladas, xoiería vexeta, perfumes vexetais"\n"</string>
+    <string name="col7"><u><b>PROPOSTAS DE COLECTIVOS XUVENÍS E MOCIDADE A NIVEL INDIVIDUAL:</b></u></string>
+    <string name="col8">O resto de actividades foron deseñadas e propostas por colectivos xuvenís informais e por xente nova a nivel individual, e serán elas e eles quen as levarán a cabo</string>
+
+
+
+    <string name="organiza">ORGANIZA E FINANCIA</string>
+    <string name="organiza2">Concello de Pontevedra - Concellaría de Xuventude</string>
+    <string name="financia">FINANCIA</string>
+    <string name="financia2">Ministerio de Sanidade, Servicios Sociais e igualdade e PNSD</string>
+    <string name="colaboran">Local de Música, IMD, CEIP Froebel, Casino Mercantil, Asociación Galega de Formación do Profesorado, Youth in action 2, Plan Municipal de
+Prevención de Drogas e Plan Municipal de Igualdade, Pazo da Cultura e Teatro Principal</string>
+
+
+
+
+</resources>

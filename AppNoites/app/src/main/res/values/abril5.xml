@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa51">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="ha51">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+     <string-array name="aa52">
+        <!--0-->   <item>Desinhibición de rúa</item>
+        <!--1-->   <item>Amigurumis</item>
+        <!--2-->   <item>Pintura-Plakatstil</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>FlashMob (ensaio)</item>
+        <!--5-->   <item>Coiro: pulseiras e colares</item>
+        <!--6-->   <item>Ligar con lingua de signos (18-30 anos)</item>
+    </string-array>
+    <string-array name="ha52">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>21-23h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="aa53">
+        <!--0-->   <item>V Xornadas manga e anime</item>
+    </string-array>
+    <string-array name="ha53">
+        <!--0-->   <item>20-01h</item>
+    </string-array>
+    <string-array name="aa54">
+        <!--0-->   <item>Ruta cicloturística nocturna pola cidade</item>
+    </string-array>
+    <string-array name="ha54">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="aa55">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <string-array name="ha55">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+</resources>

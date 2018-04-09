@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa21">
+        <!--0-->   <item>Animación Stop-Motion e Cut-Out</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Repostaría internacional</item>
+        <!--3-->   <item>Elaboración de marmeladas</item>
+        <!--4-->   <item>Chaveiros de Cartapesta</item>
+        <!--5-->   <item>Sorteo Noites Abertas</item>
+    </string-array>
+    <string-array name="ha21">
+        <!--0-->   <item>20-22h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-22,30h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22,30-00,30h</item>
+        <!--0-->   <item>23h</item>
+    </string-array>
+</resources>

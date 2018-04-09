@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+    <Button
+        style="@style/estilo_boton_principal_tablet"
+        android:text="@string/principal0"
+        android:id="@+id/boton"
+         />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo1_tablet"
+        android:text="@string/principal1"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo2_tablet"
+        android:text="@string/principal2"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo3_tablet"
+        android:clickable="true"
+        android:gravity="left"
+        android:onClick="principal1"
+        android:text="@string/principal3"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo3_tablet"
+        android:clickable="true"
+        android:gravity="left"
+        android:onClick="principal2"
+        android:text="@string/principal4"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo3_tablet"
+        android:clickable="true"
+        android:gravity="left"
+        android:onClick="principal3"
+        android:text="@string/principal5"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo3_tablet"
+        android:clickable="true"
+        android:gravity="left"
+        android:onClick="principal4"
+        android:text="@string/principal6"
+        />
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo3_tablet"
+        android:clickable="true"
+        android:gravity="left"
+        android:onClick="principal5"
+        android:text="@string/principal7"
+        />
+
+    <ImageView
+        android:id="@+id/p3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/logos3" />
+
+</LinearLayout>

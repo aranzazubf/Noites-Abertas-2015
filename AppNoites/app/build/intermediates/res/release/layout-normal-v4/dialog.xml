@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/folleto"
+    android:orientation="vertical" >
+
+    <!-- si falla esta aqui era drawable -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical|bottom">
+
+        <com.aranzazu.appnoites15.CustomTextView
+            android:id="@+id/text_d1"
+            style="@style/estilo1_pestañas"
+            android:textColor="@color/White"
+            android:gravity="center"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+            android:id="@+id/text_d2"
+            style="@style/estilo3_descripciones"
+            fuentes:fuente="Museo" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/layout-normal/dialog.xml -->

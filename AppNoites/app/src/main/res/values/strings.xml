@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="menu_settings">Settings</string>
+    <string name="meses_item0">Xaneiro</string>
+    <string name="meses_item1">Febreiro</string>
+    <string name="meses_item2">Marzo</string>
+    <string name="meses_item3">Abril</string>
+    <string name="meses_item4">Maio</string>
+    <string name="titulo_pestana4">PROGRAMACIÓN</string>
+    <string name="subtitulo_pestana4">Noites Abertas,2014</string>
+    <string name="folleto1"><u><b>DESCARGA O DESPLEGABLE INFORMATIVO NOITES ABERTAS 2015</b></u></string>
+    <string name="folleto2"><u><b>DESCARGA O DESPLEGABLE INFORMATIVO DE NOITES ABERTAS 2015</b></u></string>
+    <string name="folleto2b"><b>Nel poderas atopar toda a información respecto ás xornadas en formato papel</b></string>
+    <string name="name">Noites Abertas 2015</string>
+
+</resources>

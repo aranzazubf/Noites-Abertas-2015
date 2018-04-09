@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa71">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="ha71">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+    20-22h. Desinhibición de rúa
+    20,30-23,30h. Tenis de mesa libre
+    21-22h. Patinaxe Slalom (iniciación)
+    21-23h. Coiro: chaveiros
+    22-00h. Risoterapia
+    23h. Sorteo Noites Abertas
+
+    <string-array name="aa72">
+        <!--0-->   <item>Desinhibición de rúa</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Patinaxe Slalom (iniciación</item>
+        <!--3-->   <item>Coiro: chaveiros</item>
+        <!--4-->   <item>Risoterapia</item>
+        <!--5-->   <item>Sorteo Noites Abertas</item>
+
+    </string-array>
+    <string-array name="ha72">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h.</item>
+        <!--2-->   <item>21-22h.</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>22-00h</item>
+        <!--5-->   <item>23h</item>
+
+    </string-array>
+    <string-array name="aa73">
+        <!--0-->   <item>FlashMob</item>
+    </string-array>
+    <string-array name="ha73">
+        <!--0-->   <item>21-22h</item>
+    </string-array>
+
+    <string-array name="aa74">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="ha74">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="aa75">
+        <!--0-->   <item>Danza contemporánea</item>
+    </string-array>
+    <string-array name="ha75">
+        <!--0-->   <item>22,30-00h</item>
+    </string-array>
+    <string-array name="aa76">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <string-array name="ha76">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,49 @@
+<!-- android:layout_margin=" -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical" >
+
+    <com.aranzazu.appnoites15.CustomTextView
+        style="@style/estilo1_pestañas"
+        android:text="@string/localizaciones1"
+                />
+
+        <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="332dp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <com.aranzazu.appnoites15.CustomTextView
+                android:id="@+id/loc18"
+                style="@style/estilo3_pestañas"
+                android:layout_gravity="center_horizontal"
+
+                android:clickable="true"
+                android:onClick="mapa"
+                android:text="Ver Localizacións de Noites Abertas nun mapa máis grande"
+                fuentes:fuente="Museo" />
+        </FrameLayout>
+      
+   </LinearLayout>
+
+</ScrollView><!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/layout-normal-land/localizaciones.xml -->

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa61">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Camisetas e bolsos “Batik”</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Cestaría tradicional</item>
+        <!--4-->   <item>Patinaxe Slalom (iniciación)</item>
+        <!--5-->   <item>Perfumes vexetais</item>
+        <!--6-->   <item>Crea con pasta de sal</item>
+    </string-array>
+    <string-array name="ha61">
+        <!--0-->   <item>20h</item>
+        <!--0-->   <item>20-22h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-22h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22-23,30h</item>
+    </string-array>
+    <string-array name="aa62">
+        <!--0-->   <item>Ruta en patíns</item>
+    </string-array>
+    <string-array name="ha62">
+        <!--0-->   <item>20-22h</item>
+    </string-array>
+    <string-array name="aa63">
+        <!--0-->   <item>V Xornadas manga e anime</item>
+    </string-array>
+    <string-array name="ha63">
+        <!--0-->   <item>17-22h</item>
+    </string-array>
+    <string-array name="aa64">
+        <!--0-->   <item>Torneo de fútbol sala</item>
+    </string-array>
+    <string-array name="ha64">
+        <!--0-->   <item>21-01,30h</item>
+    </string-array>
+</resources>

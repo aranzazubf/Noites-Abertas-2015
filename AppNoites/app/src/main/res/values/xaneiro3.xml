@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ax31">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Fofuchas</item>
+        <!--2-->   <item>Ganchillo XXL: cesto</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>Obradoiro de sexualidade</item>
+        <!--5-->   <item>Animación con StopMotion e Cut</item>
+        <!--6-->   <item>Baile latino</item>
+        <!--7-->   <item>Repostaría internacional</item>
+
+    </string-array>
+    <string-array name="hx31">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>21-23h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>22-23,30h</item>
+        <!--7-->   <item>21-22,30h</item>
+    </string-array>
+    <string-array name="ax32">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Mecánica básica de bicis</item>
+        <!--2-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--3-->   <item>Baile deportivo en grupo</item>
+    </string-array>
+    <string-array name="hx32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+        <!--3-->   <item>22,30-00h</item>
+    </string-array>
+
+    <string-array name="ax33">
+        <!--0-->   <item>Dj Mixing e produción</item>
+    </string-array>
+    <string-array name="hx33">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+ </resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string-array name="am21">
+            <!--0-->   <item>Ruta guiada polo Lérez: estudo da flora</item>
+        </string-array>
+        <string-array name="hm21">
+            <!--0-->   <item>17-19h</item>
+        </string-array>
+        <string-array name="am22">
+            <!--0-->   <item>Globo aerostático</item>
+        </string-array>
+        <string-array name="hm22">
+            <!--0-->   <item>19-20,30h</item>
+        </string-array>
+        <string-array name="am23">
+            <!--0-->   <item>Atelier Postal: arte postal</item>
+            <!--1-->   <item>Postres para intolerantes: sen lactosa</item>
+            <!--2-->   <item>Rei da pista de Ping Pong</item>
+        </string-array>
+        <string-array name="hm23">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>21-00h</item>
+            <!--2-->   <item>22-00h</item>
+        </string-array>
+        <string-array name="am24">
+            <!--0-->   <item>Baile galego (iniciación)</item>
+            <!--1-->   <item>Hip Hop</item>
+        </string-array>
+        <string-array name="hm24">
+            <!--0-->   <item>19,30-21h</item>
+            <!--1-->   <item>21,30-23h</item>
+        </string-array>
+        <string-array name="am25">
+            <!--0-->   <item>Coro moderno (iniciación)</item>
+        </string-array>
+        <string-array name="hm25">
+            <!--0-->   <item>22-00h</item>
+        </string-array>
+        <string-array name="am26">
+            <!--0-->   <item>Rugby</item>
+            <!--1-->   <item>Tiro con arco (iniciación)</item>
+        </string-array>
+        <string-array name="hm26">
+            <!--0-->   <item>21-23h</item>
+            <!--1-->   <item>21-23h</item>
+        </string-array>
+        <string-array name="am27">
+            <!--0-->   <item>Fútbol 7</item>
+        </string-array>
+        <string-array name="hm27">
+            <!--0-->   <item>22-01h</item>
+        </string-array>
+    </resources>

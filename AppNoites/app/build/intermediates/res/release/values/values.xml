@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/lugares.xml -->
+    <eat-comment/>
+    <string-array name="Abril1">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril2">
+        <!--0-->   <item>FROEBEL</item>
+    </string-array>
+    <string-array name="Abril3">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>PRAIA FLUVIAL DO LÉREZ</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril4">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>PISTAS DEPORTIVAS DE CAMPOLONGO</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>TEATRO PRINCIPAL</item>
+    </string-array>
+    <string-array name="Abril5">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PRAZA DO CONCELLO</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril6">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>PRAZA SANTA MARÍA</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Abril7">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PZA PEREGRINA</item>
+        <!--3-->   <item>PRAZA SANTA MARÍA</item>
+        <!--4-->   <item>CASA AZUL</item>
+        <!--5-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril8">
+        <!--0-->   <item>PRAZA DE CURROS ENRÍQUEZ E CASINO MERCANTIL</item>
+    </string-array>
+    <array name="Coordenadas">
+        <!--0-->   <item>42.437493,-8.635046</item>
+        <!--1-->   <item>42.433965,-8.646367</item>
+        <!--2-->   <item>42.433456,-8.645793</item>
+        <!--3-->   <item>42.419498,-8.636587</item>
+        <!--4-->   <item>42.449301,-8.640368</item>
+        <!--5-->   <item>42.438255,-8.637644</item>
+        <!--6-->   <item>42.436731,-8.641748</item>
+        <!--7-->   <item>42.435573,-8.637915</item>
+        <!--8-->   <item>42.426458,-8.645318</item>
+        <!--9-->   <item>42.458632,-8.574674</item>
+        <!--10-->  <item>42.434234,-8.643526</item>
+        <!--11-->  <item>42.432184,-8.645192</item>
+        <!--12-->  <item>42.430837,-8.643687</item>
+        <!--13-->  <item>42.432789,-8.647456</item>
+        <!--14-->  <item>42.440088,-8.632889</item>
+        <!--15-->  <item>42.421023,-8.638081</item>
+       <!--16-->  <item>42.432661,-8.646265</item>
+        <!--17-->  <item>42.421817,-8.637304</item>
+
+    </array>
+    <string-array name="Direcciones">
+        <!--0-->   <item/>
+        <!--1-->   <item>Rúa Harmana Lucía, 4, 36002 Pontevedra, Pontevedra, España</item>
+        <!--2-->   <item>Rúa Princesa, 2-12, 36002 Pontevedra, Pontevedra, España</item>
+        <!--3-->   <item>Rúa Ramón Otero Pedraio, 8B, 36003 Pontevedra, Pontevedra, España</item>
+        <!--4-->   <item>Parque de Cans</item>
+        <!--5-->   <item>Rúa Celso Emilio Ferreiro, 36005 Pontevedra, Pontevedra, España</item>
+        <!--6-->   <item>Polideportivo, 36005 Pontevedra, Pontevedra, España</item>
+        <!--7-->   <item>Calle de Alexandre Bóveda, s/n, 36005 Pontevedra, España ‎</item>
+        <!--8-->   <item>Campolongo,36001 Pontevedra, España ‎</item>
+        <!--9-->   <item>Praia Fluvial do Canal,Río Lérez, 36120, Pontevedra, España</item>
+        <!--10-->  <item>Mercado de Abastos,36002 Pontevedra, España</item>
+        <!--11-->  <item>Plaza Curros Enríquez, 1, 36002 Pontevedra, Pontevedra, España</item>
+        <!--12-->  <item>A Peregrina, 36001 Pontevedra, Pontevedra, España</item>
+        <!--13-->  <item>Av Santa María, 15, 36002 Pontevedra, Pontevedra, España</item>
+        <!--14-->  <item>Río Lerez</item>
+        <!--15-->  <item>Río Gafos</item>
+        <!--16-->  <item>Rúa Duque de Tetuán, 6, 36002 Pontevedra, Pontevedra, España</item>
+        <!--17-->  <item>Rúa da Estación, 10, 36003 Pontevedra, Pontevedra, España</item>
+
+    </string-array>
+    <string-array name="Febreiro1">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro2">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>CAMPOS DE HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Febreiro3">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro4">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>PRAZA DE SANTA MARÍA</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro5">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro6">
+        <!--0-->   <item>PRAZA DE ABASTOS</item>
+        <!--1-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Lugares">
+<!--0-->   <item>CAMPOS DE HERBA SINTÉTICA DA XUNQUEIRA</item>
+<!--1-->   <item>CASA AZUL</item>
+<!--2-->   <item>CEIP FROEBEL</item>
+<!--3-->   <item>LOCAL DE MÚSICA</item>
+<!--4-->   <item>PARQUE DE CANS</item>
+<!--5-->   <item>PAVILLÓN MULTIUSOS DA XUNQUEIRA</item>
+<!--6-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+<!--7-->   <item>PAZO DA CULTURA</item>
+<!--8-->   <item>PISTAS DE CAMPOLONGO</item>
+<!--9-->   <item>PRAIA FLUVIAL DO LEREZ</item>
+<!--10-->  <item>PRAZA DE ABASTOS</item>
+<!--11-->  <item>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</item>
+<!--12-->  <item>PRAZA DA PEREGRINA</item>
+<!--13-->  <item>PRAZA DE SANTA MARÍA</item>
+<!--14-->  <item>SENDA DO LEREZ</item>
+<!--15-->  <item>SENDEIRO DO RÍO GAFOS</item>
+<!--16-->  <item>TEATRO PRINCIPAL</item>
+<!--17-->  <item>SAÍDA DIANTE DA ESTACIÓN DE AUTOBUSES</item>
+
+    </string-array>
+    <string-array name="Marzo1">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Marzo2">
+        <!--0-->   <item>SAÍDA DIANTE DA PONTE DOS TIRANTES</item>
+        <!--1-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--6-->   <item>CAMPOS HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Marzo3">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--4-->   <item>Saída diante PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    </string-array>
+    <string-array name="Marzo4">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Marzo5">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PRAZA SANTA MARÍA</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--5-->   <item>Saída do PALCO DA MÚSICA DA ALAMEDA</item>
+    </string-array>
+    <string-array name="Marzo6">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Marzo7">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+    </string-array>
+    <string-array name="Marzo8">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PRAZA SANTA MARÍA</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    </string-array>
+    <string-array name="Marzo9">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>TEATRO PRINCIPAL : XVI Salón do Libro</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--6-->   <item>CAMPOS HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Xaneiro1">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Xaneiro2">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>CAMPOS DE HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Xaneiro3">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Xaneiro4">
+        <!--0-->   <item>SAÍDA DIANTE DA ESTACIÓN DE BUSES</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+        <!--4-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril1.xml -->
+    <eat-comment/>
+    <string-array name="aa11">
+            <!--0-->   <item>Adestramento canino</item>
+        </string-array>
+    <string-array name="aa12">
+            <!--0-->   <item>Hula hooping- Hula dance</item>
+            <!--1-->   <item>Desinhibición de rúa</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Ganchillo XXL: alfombra</item>
+            <!--4-->   <item>Delicias de chocolate: ovos e bombóns</item>
+            <!--5-->   <item>Coiro: funda de libreta</item>
+        </string-array>
+    <string-array name="aa13">
+            <!--0-->   <item>Djembé</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril2.xml -->
+    <eat-comment/>
+    <string-array name="aa21">
+        <!--0-->   <item>Animación Stop-Motion e Cut-Out</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Repostaría internacional</item>
+        <!--3-->   <item>Elaboración de marmeladas</item>
+        <!--4-->   <item>Chaveiros de Cartapesta</item>
+        <!--5-->   <item>Sorteo Noites Abertas</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril3.xml -->
+    <eat-comment/>
+    <string-array name="aa31">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="aa32">
+        <!--0-->   <item>Travesía en kaiak polas pontes do Lérez</item>
+    </string-array>
+    <string-array name="aa33">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Desinhibición de rúa</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>FlashMob (ensaio)</item>
+        <!--4-->   <item>Coiro: espello forrado</item>
+        <!--5-->   <item>Postres para intolerantes: sen gluten</item>
+    </string-array>
+    <string-array name="aa34">
+        <!--0-->   <item>Graffiti (iniciación)</item>
+        <!--1-->   <item>Xoiería vexetal</item>
+        <!--2-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="aa35">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril4.xml -->
+    <eat-comment/>
+    <string-array name="aa41">
+        <!--0-->   <item>III Torneo de Magic NNAA: Modern</item>
+        <!--1-->   <item>Amigurumis</item>
+        <!--2-->   <item>Camisetas e bolsos “Batik”</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>TeleNoites</item>
+        <!--5-->   <item>ZumbaR</item>
+        <!--6-->   <item>Patinaxe Slalom (iniciación)</item>
+    </string-array>
+    <string-array name="aa42">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Relaxación divertida</item>
+        <!--2-->   <item>Sushi, delicia xaponesa</item>
+    </string-array>
+    <string-array name="aa43">
+        <!--0-->   <item>Graffiti: exhibición</item>
+    </string-array>
+    <string-array name="aa44">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <string-array name="aa45">
+        <!--0-->   <item>Certame Fest 2015</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril5.xml -->
+    <eat-comment/>
+    <string-array name="aa51">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="aa52">
+        <!--0-->   <item>Desinhibición de rúa</item>
+        <!--1-->   <item>Amigurumis</item>
+        <!--2-->   <item>Pintura-Plakatstil</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>FlashMob (ensaio)</item>
+        <!--5-->   <item>Coiro: pulseiras e colares</item>
+        <!--6-->   <item>Ligar con lingua de signos (18-30 anos)</item>
+    </string-array>
+    <string-array name="aa53">
+        <!--0-->   <item>V Xornadas manga e anime</item>
+    </string-array>
+    <string-array name="aa54">
+        <!--0-->   <item>Ruta cicloturística nocturna pola cidade</item>
+    </string-array>
+    <string-array name="aa55">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril6.xml -->
+    <eat-comment/>
+    <string-array name="aa61">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Camisetas e bolsos “Batik”</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Cestaría tradicional</item>
+        <!--4-->   <item>Patinaxe Slalom (iniciación)</item>
+        <!--5-->   <item>Perfumes vexetais</item>
+        <!--6-->   <item>Crea con pasta de sal</item>
+    </string-array>
+    <string-array name="aa62">
+        <!--0-->   <item>Ruta en patíns</item>
+    </string-array>
+    <string-array name="aa63">
+        <!--0-->   <item>V Xornadas manga e anime</item>
+    </string-array>
+    <string-array name="aa64">
+        <!--0-->   <item>Torneo de fútbol sala</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril7.xml -->
+    <eat-comment/>
+    <string-array name="aa71">
+        <!--0-->   <item>Adestramento canino</item>
+    </string-array>
+    <string-array name="aa72">
+        <!--0-->   <item>Desinhibición de rúa</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Patinaxe Slalom (iniciación</item>
+        <!--3-->   <item>Coiro: chaveiros</item>
+        <!--4-->   <item>Risoterapia</item>
+        <!--5-->   <item>Sorteo Noites Abertas</item>
+
+    </string-array>
+    <string-array name="aa73">
+        <!--0-->   <item>FlashMob</item>
+    </string-array>
+    <string-array name="aa74">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="aa75">
+        <!--0-->   <item>Danza contemporánea</item>
+    </string-array>
+    <string-array name="aa76">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Djembé</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril8.xml -->
+    <eat-comment/>
+    <string-array name="aa81">
+        <!--0-->   <item>Danza Contemporánea</item>
+        <!--0-->   <item>Desinhibición na rúa</item>
+        <!--0-->   <item>Concerto:Fest</item>
+        <!--0-->   <item>Estrea documental NNAA?</item>
+
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="abril">
+        <item>Venres 3</item>
+        <item>Sabado 4</item>
+        <item>Venres 10</item>
+        <item>Sabado 11</item>
+        <item>Venres 17 </item>
+        <item>Sabado 18 </item>
+        <item>Venres 24</item>
+        <item>Sabado 25</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro1.xml -->
+    <eat-comment/>
+    <string-array name="af11">
+            <!--0-->   <item>Esgrima e loita escénica</item>
+            <!--1-->   <item>Ganchillar é doado</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Speed Dating:  14-17 anos</item>
+            <!--4-->   <item>TeleNoites</item>
+            <!--5-->   <item>Baile latino</item>
+            <!--6-->   <item>Cociña enerxética</item>
+            <!--7-->   <item>Sorteo Noites Abertas</item>
+        </string-array>
+    <string-array name="af12">
+            <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+            <!--1-->   <item>Flores e orellas de Entroido</item>
+            <!--2-->   <item>Mecánica básica de bicis</item>
+            <!--3-->   <item>Masaxe tailandesa</item>
+        </string-array>
+    <string-array name="af13">
+            <!--0-->   <item>Dj Mixing e produción</item>
+            <!--1-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro2.xml -->
+    <eat-comment/>
+    <string-array name="af21">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Do it yourself: roupa e decoración</item>
+        <!--3-->   <item>3X3 Baloncesto en cadeira de rodas para todxs</item>
+        <!--4-->   <item>Lámpadas e bolas decorativas</item>
+    </string-array>
+    <string-array name="af22">
+        <!--0-->   <item>Baile galego (iniciación)</item>
+        <!--1-->   <item>Cociña para estudantes: pasta con vexetais</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="af23">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Combo de improvisación (iniciación)</item>
+        <!--2-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="af24">
+        <!--0-->   <item>Rugby</item>
+        <!--1-->   <item>Billarda</item>
+    </string-array>
+    <string-array name="af25">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro3.xml -->
+    <eat-comment/>
+    <string-array name="af31">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Ganchillar é doado</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Xadrez: iniciación</item>
+        <!--4-->   <item>Xadrez: partidas rápidas</item>
+        <!--5-->   <item>Baile latino</item>
+        <!--6-->   <item>Cócteles sen alcohol</item>
+    </string-array>
+    <string-array name="af32">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Mecánica básica de bicis</item>
+        <!--2-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--3-->   <item>Masaxe tailandesa</item>
+    </string-array>
+    <string-array name="af33">
+        <!--0-->   <item>Dj Mixing e produción</item>
+        <!--0-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro4.xml -->
+    <eat-comment/>
+    <string-array name="af41">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Xadrez: iniciación</item>
+        <!--3-->   <item>Xadrez: partidas rápidas</item>
+        <!--4-->   <item>Baile latino</item>
+        <!--5-->   <item>Cociña enerxética</item>
+    </string-array>
+    <string-array name="af42">
+        <!--0-->   <item>Ruta en patíns</item>
+    </string-array>
+    <string-array name="af43">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Masaxe tailandesa</item>
+    </string-array>
+    <string-array name="af44">
+        <!--0-->   <item>Dj Mixing e produción</item>
+        <!--1-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro5.xml -->
+    <eat-comment/>
+    <string-array name="af51">
+        <!--0-->   <item>A ciencia dos efectos especiais</item>
+        <!--1-->   <item>Cócteis sen alcohol</item>
+    </string-array>
+    <string-array name="af52">
+        <!--0-->   <item>Xogos predeportivos e sensoriais</item>
+        <!--1-->   <item>Fofuchas</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Baile latino</item>
+        <!--4-->   <item>Amor e sexo: mitos</item>
+    </string-array>
+    <string-array name="af53">
+        <!--0-->   <item>Cociña para estudantes: pizzas vexetarianas</item>
+        <!--1-->   <item>Broches e pins de Cartapesta</item>
+        <!--2-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="af54">
+        <!--0-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro6.xml -->
+    <eat-comment/>
+    <string-array name="af61">
+        <!--0-->   <item>Visita á praza de abastos e elaboración de superbatidos</item>
+    </string-array>
+    <string-array name="af62">
+        <!--0-->   <item>Manualidades: papaventos</item>
+        <!--1-->   <item>“Mañá foi domingo: as viaxes no tempo na literatura</item>
+    </string-array>
+    <string-array name="af63">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Facemos pan?</item>
+        <!--3-->   <item>3X3 Baloncesto en cadeira de rodas para todxs</item>
+    </string-array>
+    <string-array name="af64">
+        <!--0-->   <item>Repostaría internacional</item>
+        <!--1-->   <item>Baile galego (iniciación)</item>
+    </string-array>
+    <string-array name="af65">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Guitarra Funky Blues (iniciación)</item>
+        <!--2-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="af66">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo1.xml -->
+    <eat-comment/>
+    <string-array name="am11">
+            <!--0-->   <item>Encadernación e deseño de cubertas</item>
+        </string-array>
+    <string-array name="am12">
+            <!--0-->   <item>TeleNoites</item>
+            <!--1-->   <item>Hula hooping- Hula dance</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Repostaría internacional</item>
+            <!--4-->   <item>Baile latino</item>
+            <!--5-->   <item>Speed Dating: 18-25 anos</item>
+            <!--6-->   <item>Sorteo Noites Abertas</item>
+        </string-array>
+    <string-array name="am13">
+            <!--0-->   <item>Noites en Lingua de signos</item>
+            <!--1-->   <item>Fotografía do 1851: colodión húmido</item>
+            <!--2-->   <item>Masaxe tailandesa</item>
+        </string-array>
+    <string-array name="am14">
+            <!--0-->   <item>Defensa persoal. Hapkido</item>
+        </string-array>
+    <string-array name="am15">
+            <!--0-->   <item>Compoñer unha canción (iniciación)</item>
+            <!--1-->   <item>Música de andar por casa. Instrumentos humildes da música tradicional</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo2.xml -->
+    <eat-comment/>
+    <string-array name="am21">
+            <!--0-->   <item>Ruta guiada polo Lérez: estudo da flora</item>
+        </string-array>
+    <string-array name="am22">
+            <!--0-->   <item>Globo aerostático</item>
+        </string-array>
+    <string-array name="am23">
+            <!--0-->   <item>Atelier Postal: arte postal</item>
+            <!--1-->   <item>Postres para intolerantes: sen lactosa</item>
+            <!--2-->   <item>Rei da pista de Ping Pong</item>
+        </string-array>
+    <string-array name="am24">
+            <!--0-->   <item>Baile galego (iniciación)</item>
+            <!--1-->   <item>Hip Hop</item>
+        </string-array>
+    <string-array name="am25">
+            <!--0-->   <item>Coro moderno (iniciación)</item>
+        </string-array>
+    <string-array name="am26">
+            <!--0-->   <item>Rugby</item>
+            <!--1-->   <item>Tiro con arco (iniciación)</item>
+        </string-array>
+    <string-array name="am27">
+            <!--0-->   <item>Fútbol 7</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo3.xml -->
+    <eat-comment/>
+    <string-array name="am31">
+        <!--0-->   <item>Aníma-Te: stop motion</item>
+        <!--1-->   <item>Ex-libris: personaliza os teus libros</item>
+    </string-array>
+    <string-array name="am32">
+        <!--0-->   <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Ganchillo e calceta: buff</item>
+        <!--3-->   <item>Obradoiro de ligue e sedución</item>
+        <!--4-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="am33">
+        <!--0-->   <item>Fotografía do 1851: colodión húmido</item>
+        <!--1-->   <item>Relaxación divertida</item>
+        <!--2-->   <item>Retoque fotográfico (iniciación)</item>
+    </string-array>
+    <string-array name="am34">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+     </string-array>
+    <string-array name="am35">
+        <!--0-->   <item>Observación astronómica</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo4.xml -->
+    <eat-comment/>
+    <string-array name="am41">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Virus e zombies</item>
+    </string-array>
+    <string-array name="am42">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Atelier Postal: arte postal</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Cociña para estudantes: cociña galega do SXXI</item>
+        <!--4-->   <item>Do it yourself: roupa e decoración</item>
+        <!--5-->   <item>ZumbaR</item>
+        <!--6-->   <item>Arte con pintura inflable</item>
+    </string-array>
+    <string-array name="am43">
+        <!--0-->   <item>Elaboración dun herbario</item>
+        <!--1-->   <item>Danza contemporánea</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="am44">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo5.xml -->
+    <eat-comment/>
+    <string-array name="am51">
+        <!--0-->   <item>Encadernación e deseño de cubertas</item>
+        <!--1-->   <item>Astronomía: da ciencia á ficción</item>
+    </string-array>
+    <string-array name="am52">
+        <!--0-->   <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Pintura-Plakatstil</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Coiro: moedeiro</item>
+        <!--4-->   <item>Repostaría internacional</item>
+    </string-array>
+    <string-array name="am53">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="am54">
+        <!--0-->   <item>Pontevedra 360º: fotos panorámicas</item>
+        <!--1-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="am55">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+    </string-array>
+    <string-array name="am56">
+        <!--0-->   <item>Ponte-caching: na procura das orixes da cidade</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo6.xml -->
+    <eat-comment/>
+    <string-array name="am61">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Robótica básica</item>
+        <!--2-->   <item>Os Xogos da Fame</item>
+
+    </string-array>
+    <string-array name="am62">
+        <!--0-->  <item>Atelier Postal: arte postal</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Facemos pan?</item>
+        <!--3-->   <item>ZumbaR</item>
+        <!--4-->   <item>Pins e chapas persoalizadas</item>
+    </string-array>
+    <string-array name="am63">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Graffiti (iniciación)</item>
+        <!--2-->   <item>Relaxación divertida</item>
+    </string-array>
+    <string-array name="am64">
+        <!--0-->   <item>Tiro con arco (iniciación)</item>
+        <!--1-->   <item>Billarda</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo7.xml -->
+    <eat-comment/>
+    <string-array name="am71">
+        <!--0-->   <item>Tecnomaxia</item>
+
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo8.xml -->
+    <eat-comment/>
+    <string-array name="am81">
+        <!--0-->   <item>Encadernacidón ecolóxica</item>
+        <!--1-->   <item>Comunicacións extraplanetarias</item>
+        <!--2-->   <item>Teatro: Pan! Pan!</item>
+    </string-array>
+    <string-array name="am82">
+        <!--0-->  <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Desinhibición de rúa</item>
+        <!--2-->   <item>Pintura-Plakatstil</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>Chocolates para Pascua</item>
+    </string-array>
+    <string-array name="am83">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="am84">
+        <!--0-->   <item>Time Lapse: vídeos con fotos</item>
+        <!--1-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="am85">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo9.xml -->
+    <eat-comment/>
+    <string-array name="am91">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Experimentando cos alimentos e cos cosméticos</item>
+    </string-array>
+    <string-array name="am92">
+        <!--0-->  <item>Atelier Postal: arte postal</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Patinaxe Slalom (iniciación)</item>
+        <!--3-->   <item>ZumbaR</item>
+    </string-array>
+    <string-array name="am93">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Graffiti (iniciación)</item>
+        <!--2-->   <item>Sushi, delicia xaponesa</item>
+    </string-array>
+    <string-array name="am94">
+        <!--0-->   <item>Descobre o teatro por dentro</item>
+        <!--1-->   <item>Representación "O Furancho"</item>
+        <!--2-->   <item>Teatro fórum</item>
+    </string-array>
+    <string-array name="am95">
+        <!--0-->   <item>Caixón flamenco</item>
+        <!--1-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="am96">
+        <!--0-->   <item>Billarda</item>
+        <!--1-->   <item>Deporte adaptado: volei</item>
+    </string-array>
+    <string-array name="am97">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro1.xml -->
+    <eat-comment/>
+    <string-array name="ax11">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Ganchillo e calceta: gorro</item>
+        <!--2-->   <item>Animación con StopMotion e Cut Out</item>
+        <!--3-->   <item>Baile latino</item>
+        <!--4-->   <item>Ligar con lingua de signos (15-17 anos)</item>
+        <!--5-->   <item>Xogos de cartas de velocidade</item>
+        <!--6-->   <item>Tenis de mesa libre</item>
+
+    </string-array>
+    <string-array name="ax12">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--2-->   <item>Baile deportivo en grupo</item>
+    </string-array>
+    <string-array name="ax13">
+        <!--0-->   <item>Dj Mixing e produción</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro2.xml -->
+    <eat-comment/>
+    <string-array name="ax21">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Cestaría Tradicional</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Aproveitamento de doces de Nadal</item>
+        <!--4-->   <item>Risoterapia</item>
+    </string-array>
+    <string-array name="ax22">
+        <!--0-->   <item>Baile galego (iniciación)</item>
+        <!--1-->   <item>Facemos pan?</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="ax23">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Combo de improvisación (iniciación)</item>
+    </string-array>
+    <string-array name="ax24">
+        <!--0-->   <item>Tiro con arco</item>
+        <!--1-->   <item>Deporte adaptado: fútbol</item>
+    </string-array>
+    <string-array name="ax25">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro3.xml -->
+    <eat-comment/>
+    <string-array name="ax31">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Fofuchas</item>
+        <!--2-->   <item>Ganchillo XXL: cesto</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>Obradoiro de sexualidade</item>
+        <!--5-->   <item>Animación con StopMotion e Cut</item>
+        <!--6-->   <item>Baile latino</item>
+        <!--7-->   <item>Repostaría internacional</item>
+
+    </string-array>
+    <string-array name="ax32">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Mecánica básica de bicis</item>
+        <!--2-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--3-->   <item>Baile deportivo en grupo</item>
+    </string-array>
+    <string-array name="ax33">
+        <!--0-->   <item>Dj Mixing e produción</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro4.xml -->
+    <eat-comment/>
+    <string-array name="ax41">
+        <!--0-->   <item>Paseo nocturno polo río Gafos e chocolatada</item>
+    </string-array>
+    <string-array name="ax42">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Patinaxe e xoquei patíns</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Unha cita con Europa: Letonia, Hungría e Italia</item>
+        <!--4-->   <item>Obradoiro de ligue e sedución</item>
+        <!--5-->   <item>Xogos de cartas de velocidade</item>
+    </string-array>
+    <string-array name="ax43">
+        <!--0-->   <item>Facemos pan?</item>
+        <!--1-->   <item>Do it yourself: roupa e decoración</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="ax44">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Improvisación coa guitarra</item>
+    </string-array>
+    <string-array name="ax45">
+        <!--0-->   <item>Fútbol Sala</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/descripciones.xml -->
+    <eat-comment/>
+    <string-array name="descripciones">
+    <!--0  3X3 Baloncesto en cadeira de rodas para todxs: --><item>O Club de Baloncesto Estudantes de Pontevedra e o Club Amfiv de Vigo, propoñen esta actividade de xogos e exercicios de baloncesto en cadeira de rodas. Proba esta actividade novidosa , difícil e motivante."\n" Levar roupa deportiva, auga, e de maneira opcional luvas de ciclismo."\n""\n"Datas: 7 e 28 febreiro</item>
+
+    <!--1  A ciencia dos efectos especiais:--><item>Aprenderás como son feitos os efectos especiais das películas e poderás realizar os teus propios trucos  a través de técnicas  e materiais sinxelos. Coordinado por Ricardo Spencer especialista en efectos especiais e medios audiovisuais."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 27 febreiro</item>
+
+    <!--2 Adestramento canino:--><item>Nesta actividade o adestrador pretende ensinar os principios básicos da proba I.P.O, en concreto a proba de socialización B.H. As persoas guías e os seus cans aprenderán as ordes básicas. Acode co teu can con correa dun metro e colar metálico."\n"Actividade para maiores de 16 anos."\n"Leva ao teu can con correa e colar metálico"\n""\n"Datas: 3, 10, 17 e 24 abril</item>
+
+    <!--3 Amigurumis:--><item>Nesta actividade poderás aprender a técnica xaponesa de facer bonecos de ganchillo en tres dimensións."\n"http://www.salitreypapel.blogspot.com/es"\n""\n"Datas: 11 e 17 abril</item>
+
+    <!--4 Amor e Sexo: --><item>Mitos: obradoiro para traballar as ideas irracionais aprendidas ao longo da vida sobre as relacións afectivas."\n"A partir de 16 anos."\n""\n"Data: 27 febreiro</item>
+
+    <!--5 Aníma-Te: --><item>Stop motion: sempre quixeches facer a túa propia curtametraxe de animación? Neste obradoiro terás a oportunidade de experimentar coa técnica do stop-motion, a empregada en filmes tan exitosos como Coraline,Wallace e Gromit ou Pesadelo antes de Nadal de Tim Burton."\n"Queres animar? Aníma-te!"\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 13 marzo</item>
+
+    <!--6 Animación e promoción de NNAA: --><item>A cargo de Llu llu Teatro, percorreremos os diferentes centros educativos e as prazas da cidade para informar da chegada de Noites Abertas dun xeito divertido e sorprendente."\n""\n"Datas: do 19 ao 22 de xaneiro</item>
+
+    <!--7 Animación stop-motion e cut-out: --><item>Nesta actividade amosarémosvos como se pode outorgar vida a obxectos inanimados mediante os principios básicos da animación, 12 leis que permiten enganar a nosa percepción para facermos crer que algo sen vida ten sentimentos."\n""\n"Datas: 23, 30 xaneiro, 4 abril</item>
+
+    <!--8 Aproveitamento de doces de Nadal:--><item>Aproveitando os doces excedentes do Nadal, elaboraremos unha receita novidosa."\n""\n"Data: 24 xaneiro</item>
+
+    <!--9  Arte con pintura inflable:--><item>Pinta sobre cartolina e cartón con pintura inflable e con relevo Elabora os teus propios deseños."\n""\n"Data: 14 marzo</item>
+
+    <!--10 Astronomía:--><item>Da ciencia á ficción: partindo de clásicos do cine e da literatura de ciencia ficción, que en tantas ocasións tiveron o Universo como paisaxe, faremos un percorrido virtual polo espazo no cal poderemos comprobar como realidade e ficción poden chegar a darse a man."\n"A actividade rematará cunha práctica observacional se a climatoloxía o permite."\n""\n"Data: 20 marzo</item>
+
+    <!--11 Atelier Postal:--><item>Arte postal: obradoiro de arte postal que integra actividades relacionadas coa creación plástica e a escrita creativa destinada a ser enviada por correo ordinario."\n"Maiores de 14 anos."\n""\n"Datas: 7, 14, 21 e 28 marzo</item>
+
+    <!--12 Baile deportivo en grupo: --><item>Estilo de danza pouco coñecido que resulta dunha mestura de estilos, bailes latinos, americanos clásicos, movementos deportivos e de sincronización xeral."\n"Impartido por Lorena Mura, unha voluntaria italiana que se atopa en Noites Abertas a través do programa Erasmus+."\n"Leva roupa deportiva."\n""\n"Datas: 23 e 30 xaneiro</item>
+
+    <!--13 Baile galego:--><item>Iniciación ao baile tradicional galego da man da Asociación Cultural Trépia. Estruturas, técnicas e improvisación coa nosa danza."\n"Acode á actividade con roupa cómoda e calzado deportivo."\n"http://www.trepia.org"\n""\n"Datas: 24 xaneiro, 7, 28 febreiro, 7 marzo</item>
+
+    <!--14 Baile latino:--><item>Todos os estilos de baile latino serán os que aprenderemos cun grupo de mozos e mozas bailaríns."\n"Se queres aprender os pasos básicos e figuras sinxelas propias destes bailes tes que vir a esta actividade."\n"Lembra traer roupa e calzado cómodos."\n""\n"Datas: 23, 30 xaneiro, 6, 13, 20 e 27 febreiro, 6 marzo</item>
+
+    <!--15 Billarda:--><item>Xogo tradicional galego que consiste en desprazar un obxecto (billarda) ata atravesar unha liña de meta antes que o rival."\n"Para conseguilo golpéase a billarda cunha vara de madeira (palán) de xeito que primeiro se eleve no aire e posteriormente, cun segundo ou sucesivos golpes, se envíe o máis lonxe posible en dirección a esa meta."\n" Vén, xoga e leva o teu propio palán."\n""\n"Datas: 7 febreiro, 21 e 28 marzo</item>
+
+    <!--16 Broches e pins de Cartapesta: --><item>Elabora pins e broches con esta técnica decorativa. Personaliza os teus deseños."\n""\n"Data: 27 febreiro.</item>
+
+    <!--17 Caixón flamenco:--><item>Coñece o mundo do caixón flamenco, un instrumento de percusión que permite múltiples aplicacións."\n"Aprende diferentes ritmos da man dun músico percusionista."\n"Datas: 28 marzo, 10, 17 e 24 abril</item>
+
+    <!--18 Camisetas e bolsos “Batik”:--><item>Este obradoiro será impartido por Nora Knoft, a voluntaria de Hungría que se atopa facendo voluntariado en Noites Abertas a través do Erasmus+."\n"Consiste en colorear e pintar camisetas e bolsos mediante esta técnica orixinaria de Asia."\n""\n" Datas: 11 e 18 abril</item>
+
+    <!--19 Cestaría tradicional:--><item>Obradoiro impartido por Risotadas no que nos achegaremos a un dos oficios tradicionais que hoxe corre maior risco de desaparecer."\n"Poderás aprender as técnicas básicas da cestaría elaborando obxectos prácticos e decorativos."\n""\n"Datas: 24 xaneiro e 18 abril</item>
+
+        <!--20 Certame FEST 2015:--><item>Certame anual do Local de Música que busca poñer en valor a creación musical de base."\n"Oito grupos seleccionados previamente por un xurado cualificado e representativo, farán unha actuación breve para mostrar o seu espectáculo."\n"Un xurado concederá un dos premios que consiste na gravación dun videoclip cunha produtora audiovisual por valor de 1000€."\n"O público asistente votará e concederá outro premio, que consistirá na actuación remunerada na Festa Final de Noites Abertas."\n"O festival pecharase cunha actuación dun grupo convidado."\n""\n"Data: 11 abril</item>
+
+        <!--21 Chaveiros de Cartapesta:--><item>Elabora chaveiros con esta técnica decorativa."\n"Personaliza os teus deseños."\n""\n"Data: 4 abril</item>
+
+        <!--22 Chocolates para Pascua:--><item>Elabora e decora piruletas de chocolate. Leva o teu propio mandil e se trae un tupper para levar as túas creacións."\n""\n"Data: 27 marzo</item>
+
+        <!--23 Cociña enerxética:--><item>Sorpréndete con sabores novos elaborando comidas máis saudables e respectuosas coas necesidades do noso corpo."\n"Maiores de 16."\n""\n"Datas: 6 e 20 febreiro</item>
+
+        <!--24 Cociña para estudantes: --><item>Cociña creativa, económica e fácil. Xa non terás escusa para non alimentarte ben."\n"Darémoslles unhas voltas ós pratos máis tradicionais, xogaremos cos pratos vexetarianos e improvisaremos pratos con cousas que atopamos un día calquera na nosa neveira."\n""\n"Datas: 7, 27 febreiro, 14 marzo</item>
+
+        <!--25 Cócteis sen alcohol:--><item>Aprende a combinar diferentes sabores e a reinventar os cócteis de sempre cunha nova creación."\n"Aprenderás tamén a decoralos e mellorar as súas presentacións."\n"Degustación asegurada! Leva mandil para realizar a actividade comodamente."\n""\n"Datas: 13  e 27 febreiro</item>
+
+        <!--26 Coiro:--><item>Aprende a facer utensilios da vida cotiá empregando este material, de xeito que sexan pezas totalmente orixinais e únicas. Un moedeiro, unha funda de caderno, espello forrado, pulseiras, colares e chaveiros. Actividade para maiores de 16 anos."\n""\n"Datas: 20 marzo, 3, 10, 17 e 24 abril</item>
+
+        <!--27 Combo de improvisación (iniciación):--><item>Co músico Juan Pablo Charlo experimenta e interactúa neste espazo con diferentes instrumentos musicais, como se dunha jam sesión se tratara. Non importa se non tes coñecementos musicais."\n"Actividade para maiores de 16."\n""\n"Datas: 24 xaneiro e 7 febreiro</item>
+
+        <!--28 Compoñer unha canción (iniciación):--><item>Aprende os movementos harmónicos máis comúns e sinxelos dunha canción de rock/pop."\n"Iníciate na composición de cancións."\n"Maiores de 16."\n"Data: 6 marzo</item>
+
+        <!--29 Comunicacións extraplanetarias: --><item>E se te chamaran os extraterrestres desde o espazo exterior? en que idioma contestarías? Galego? Danés? Guau Guau? Toc toc? 1,2,3 probando? Neste obradoiro construiremos linguaxes universais e mensaxes para os nosos “posibles” veciños espaciais."\n"Referencias literarias: Contact, Carl Sagan, 1997. Gramáticas extraterrestres, Fernando Ballesteros, Universitat de Valencia Servei de Publicacións, 2008. Imparten: Borja Tosar (Astrónomo), Manuel Vicente (Divulgador científico)"\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 27 marzo</item>
+
+        <!--30 Coro moderno (iniciación):--><item>Neste coro imos cantar en grupo temas coñecidos, animados e modernos. Vén a cantar connosco!."\n"Actividade para maiores de 14 anos."\n""\n"Datas:7 e 28 febreiro, 7 e 28 marzo</item>
+
+        <!--31 Constrúe instrumentos musicais de refugallo:--><item>Elabora diferentes instrumentos vexetais reutilizando materiais como tubos de PVC, metal, madeira de palé, latas... "\n"Maiores de 16."\n""\n"Datas: 23, 30 xaneiro e 13 febreiro</item>
+
+        <!--32 Crea con pasta de sal:--><item>Crea elementos decorativos con esta técnica. Manualidades divertidas para aprender e levar."\n""\n"Data: 18 abril</item>
+
+        <!--33 Danza contemporánea:--><item>Por medio da danza contemporánea experimentaredes sensacións novas ao deixarvos levar pola expresión corporal e os exercicios técnicos accesibles a todo o mundo. Seredes capaces de sentir por medio do movemento, unha ou varias partes dunha coreografía."\n"Unídevos ao encontro coa arte en movemento! Acode á actividade con roupa cómoda e calzado deportivo."\n""\n"Datas: 14, 21, 28 marzo, 11, 24 e 25 abril</item>
+
+        <!--34 Defensa persoal – Hapkido:--><item>Coñecerás as técnicas propias do Hapkido, arte marcial de defensa persoal cun uso proporcional da forza."\n"Leva roupa e calzado cómodo. Actividade para maiores de 18 anos."\n""\n"Datas: 6, 13, 20, 27 marzo</item>
+
+        <!--35 Delicias de chocolate:--><item>Ovos e bombóns: elaboraremos e degustaremos pequenos ovos de Pascua e bombóns de chocolate."\n"Trae o teu propio mandil."\n""\n"Data: 3 abril</item>
+
+        <!--36 Deporte adaptado:--><item>Fútbol: proba a práctica deste deporte dende unha óptica diferente, integradora e divertida."\n"Experimenta coas normas e táctica básica do fútbol adaptado."\n""\n"Data: 24 xaneiro</item>
+
+        <!--37 Deporte adaptado:--><item>Volei: proba a práctica deste deporte dende unha óptica diferente, integradora e divertida."\n"Experimenta coas normas e táctica básica do volei adaptado."\n""\n"Data: 28  marzo</item>
+
+        <!--38 Descobre o teatro por dentro--><item>Representación: "O Furancho"."\n"Teatro forum:  antes da función comparte coa compañía Ibuprofeno Teatro os momentos previos dunha función."\n"Como é un día de representación: atrezzo, pase técnico, quecemento, rutinas, maquillaxe,... "\n"Participa nos exercicios, coñece a parte técnica e a súa montaxe, xeitos de crear un espectáculo,... "\n"Actividade para maiores de 16 anos que require inscrición previa. "\n""\n"Data: 28 marzo</item>
+
+        <!--39 Desinhibición de rúa:--><item>Actividade que levará a cabo a Asociación 105 Besos na que nos divertiremos con exercicios teatrais e performances que logo trasladaremos á rúa."\n"Traballaremos a desinhibición persoal, o sentido do ridículo e o medo ao descoñecido."\n"Acude á actividade con roupa cómoda e calzado deportivo."\n"Actividade para maiores de 15."\n"http://www.teatro105besos.com "\n""\n"Datas: 27 marzo, 3, 10, 17 e 24 abril</item>
+
+        <!--40 DiY: do it yourself, roupa e decoración: customiza a túa roupa e faina única--><item>Poderás personalizar as túas prendas para que sexan únicas e diferentes, así como a realización de accesorios como cintos, bolsos, pulseiras, colares..."\n"Tes que levar camisa, camiseta ou xersei e pantalón vaqueiro para customizar."\n"Datas: 31 xaneiro, 7 febreiro e 14 marzo</item>
+
+        <!--41 Dj Mixing e Produción: sesións introdutorias ao mundo do Dj (mixing)--><item>Creación, mestura e master (Native Instruments Maschine)."\n""\n"Datas: 23, 30 xaneiro, 6, 13 e 20 febreiro</item>
+
+        <!--42 Djembé:--><item>Actividade de iniciación á percusión na que coñeceremos os golpes básicos con este instrumento musical, profundizando nos ritmos tradicionais africanos e improvisando da man do monitor da Asociación Galega de Percutas OMAR.."\n"Non é necesario que traias instrumento, nin que teñas coñecementos previos."\n""\n"Datas: 3, 10, 17 e 24 abril</item>
+
+        <!--43 Documentario de Noites Abertas: --><item>Documentario sobre a traxectoria do programa de ocio nocturno Noites Abertas, dende o ano 1999 ata a actualidade."\n"Opinións, anécdotas, reflexións... unha chea de recordos e de vivencias para compartir."\n""\n"Data da estrea mundial: 25 abril</item>
+
+        <!--44 Elaboración de marmeladas:--><item>Aprende a elaborar as túas propias marmeladas e confituras caseiras co monitorado de Ventos, estudos ambientais."\n""\n"Data: 4 abril</item>
+
+        <!--45 Elaboración dun herbario:--><item>A Asociación Pola Defensa da Ría propón esta actividade para elaborarmos un herbario con especies autóctonas e outras que teñan aplicacións e interese na fitoterapia."\n""\n"Data: 14 marzo</item>
+
+        <!--46 Encadernación e deseño de cubertas:--><item>Realización de cadernos personalizados, técnicas de encadernación e deseño de portadas con diferentes materiais."\n""\n"Datas: 6 e 20 marzo</item>
+
+        <!--47 Encadernación ecolóxica:--><item>Reutiliza cartón, retais, papel reciclado e trapos vellos para elaborar as túas propias axendas e cadernos."\n""\n"Data: 27 marzo</item>
+
+        <!--48 Esgrima e loita escénica:--><item>Nesta actividade a Escola Hungaresa de Esgrima Pontevedra iniciaravos na técnica da esgrima e loita escénica."\n"Practicaredes por parellas ou en grupos e faredes pequenas coreografías simulando situacións de pelexa."\n"Lembrade traer roupa e calzado cómodo. Actividade para maiores de 14 anos."\n""\n"Datas: 23, 30 xaneiro, 6, 13, 20 febreiro</item>
+
+        <!--49 Ex-libris: --><item>Personaliza os teus libros: aprenderás a fabricar pequenos ex-libris para personalizar os teus libros."\n"Verás a técnica de gravado sobre linóleo e deseñarás o teu propio cuño co que marcar os libros da túa biblioteca persoal."\n""\n"Data: 13 marzo</item>
+
+        <!--50 Experimentando cos alimentos e os cosméticos: --><item>Realmente coñeces o que consumes? Alimentos: naturais, eco, transxénicos, aditivos,e sen lactosa... Cosméticos: sen parabenos, sen aluminio, que protexe o teu ADN..."\n"Que son todas estas cousas? Todo o que necesitas saber: canto hai de mito e canto de verdade, canto de ciencia e canto de mercadotecnia."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 28 marzo</item>
+
+        <!--51 Facemos pan? : --><item>Elabora pan caseiro de xeito sinxelo e ao xeito tradicional e artesán."\n"Trae o teu propio mandil."\n""\n"Datas: 24 e 31 xaneiro, 28 febreiro e 21 marzo</item>
+
+        <!--52 FlashMob:  --><item>Consiste en realizar un baile na rúa que pareza unha improvisación e que sorprenda á xente que se atope alí nese instante."\n"Perde a vergoña e vén coñecer xente."\n""\n"Datas: ensaios 10 e 17 abril Execución o 24 de abril.</item>
+
+        <!--53 Flores e orellas de Entroido:  --><item>Xa que estamos en Entroido aprende a preparar estas dúas receitas galegas tradicionais."\n""\n"Data: 6 febreiro</item>
+
+        <!--54 Fofuchas:  --><item>Deseña e elabora a túa propia boneca fofucha, para ti ou para agasallar."\n"Partindo dun deseño común, poderás personalizala."\n""\n"Datas: 30 xaneiro e 27 febreiro</item>
+
+        <!--55 Fotografía de 1851:  --><item>Colodión húmido: emprega esta técnica fotográfica do século XIX para elaborar negativos e revelar as túas fotos."\n"Maiores de 16."\n""\n"Datas: 6 e 13 marzo</item>
+
+        <!--56 Fútbol 7:  --><item>Partidos de 10 minutos de duración no que o importante é pasalo ben e xogar."\n"Un ano máis, o Club CAFyD organizará a distribución dos 3 campos de herba sintética para que xoguedes o máximo número posible de partidos."\n"Os equipos poden ser mixtos."\n""\n"Datas: 24 xaneiro, 7 febreiro, 7 e 28 marzo</item>
+
+        <!--57 Fútbol sala:  --><item>O club deportivo CAFyD volve a propoñer un ano máis, a actividade máis demandada do programa. Velocidade e emoción en partidos de 10 minutos."\n"As dúas pistas do Pavillón Multiusos da Xunqueira listas para 3 horas de fútbol sala sen pausa."\n"Os equipos poden ser masculinos, femininos ou mixtos."\n""\n"Datas: 31  xaneiro, 28 febreiro, 14 marzo, 11 abril</item>
+
+        <!--58 Gaita galega (iniciación):   --><item>As túas primeiras notas con este instrumento da música tradicional galega. Co monitor, un músico profesional, aprenderás as destrezas básicas que che permitirán aprender sinxelas melodías."\n"Non precisas traer material algún."\n""\n"Datas: 24 e 31 xaneiro, 7 e 28 febreiro</item>
+
+        <!--59 Ganchillar é doado: --><item>Unha cunca de café, un chocolate, unhas bolachas, agulla e fío; estes son os ingredientes para crear unha atmosfera onde, punto a punto, faremos realidade as creacións máis bonitas."\n"Aprenderás os puntos básicos do gancho para poder espertar a vosa curiosidade."\n"Desvelaremos trucos e daremos información para que facer gancho sexa algo doado... sabendo como."\n""\n"Datas: 6 e 13 febreiro</item>
+
+        <!--60 Ganchillo e calceta: --><item>Aprende de xeito sinxelo e ameno os puntos básicos do ganchillo e da calceta para poder elaborar prendas básicas: gorro, buff e funda."\n""\n"Datas: 23 xaneiro e 13 marzo</item>
+
+        <!--61 Ganchillo XXL:  --><item>Alfombra:"\n""\n"Data: 3 abril</item>
+
+        <!--62 Ganchillo XXL:  --><item>Cesto:"\n""\n"Data: 30 xaneiro</item>
+
+        <!--63 Graffiti (iniciación):  --><item>Da man do escritor de graffiti O Ras, aprenderás unhas nocións básicas do manexo da súa ferramenta básica, o spray."\n"Coñecerás a historia do graffiti e os distintos estilos que compoñen esta expresión artística."\n"Veremos distintos tipos de letras e de personaxes, así como o bo uso do material e o espazo a nivel cívico."\n"Ao remate das sesións prácticas, realizaremos un mural colectivo."\n""\n"Datas: 21, 28 marzo e 10 abril."\n"Mural colectivo: 11 abril</item>
+
+        <!--64 Guitarra Funky Blues (iniciación): --><item>Co músico Juan Pablo Charlo aprende a tocar acordes básicos e sinxelos, característicos do estilo, en diferentes progresións."\n"Leva a túa propia guitarra."\n"Maiores de 16."\n""\n" Data: 28 febreiro</item>
+
+        <!--65 Hip hop: --><item>Clases dunha hora de duración nas que se desenvolverán diferentes  estilos de danza urbana."\n""\n"Datas: 24, 31 xaneiro, 7 febreiro, 7 e 14 marzo</item>
+
+        <!--66 Hula Hooping-hula dance: --><item>Aprenderás a elaborar o teu propio hula hoop e a desenvolver as técnicas básicas para a práctica deste divertido exercicio tanto físico como mental."\n"Aprenderemos diferentes movementos co hula hoop xogando co obxecto, co corpo e co espazo."\n"Na primeira sesión faremos os nosos propios hula hoops; para as seguintes sesións debes acudir co teu propio hula."\n""\n"Datas: 6, 13, 20, 27 marzo, 3 abril</item>
+
+        <!--67 III Torneo de Magic NNAA: --><item>Modern: terceira edición deste torneo de cartas "Magic the Gathering" que vos propoñen un grupo de mozos e mozas."\n"Como nas edicións anteriores, o que tentaremos será que os xogadores e xogadoras de Magic de Galicia se coñezan. Tamén se pretende achegar as Magic a calquera persoa que lle apeteza aprender a xogar."\n"Teremos premios especiais  para aquelas persoas que empreguen o galego na actividade."\n" Leva o teu propio mazo de cartas."\n"Actividade que require inscrición previa."\n""\n"Data: 11 abril</item>
+
+        <!--68 Improvisación coa guitarra (iniciación): --><item>Aprende a tocar 2 posicións ou dixitacións da escala maior e a tararealas ao mesmo tempo."\n"Unha experiencia didáctica e autónoma, para rematar cunha creación colectiva e nun ambiente lúdico."\n"Maiores de 16."\n"Leva a túa propia guitarra."\n""\n"Data: 31 xaneiro</item>
+
+        <!--69 Laboratorio nocturno: --><item>Experimentos científicos: achégate á ciencia e á experimentación por medio de demostracións sinxelas e vistosas."\n"Interacciona de primeira man con conceptos e teorías que só parecen ter sentido nos libros."\n"Maiores de 16."\n""\n"Datas: 14, 21 e 28  marzo</item>
+
+        <!--70 Lámpadas e bolas decorativas: --><item>Constrúe unha lámpada ou unha bola decorada a partir de globos e fíos."\n""\n"Data: 7 febreiro</item>
+
+        <!--71 Ligar con lingua de signos: --><item>Descobre esta nova canle de comunicación á hora de manter relacións sociais."\n"Ensinaranse en clave de humor, nocións básicas de lingua de signos que se poden empregar en situacións de ligue."\n"Dúas datas diferentes, para dúas idades distintas."\n""\n"Datas: 23 xaneiro (15-17 anos)  e 17 abril (18-30 anos)</item>
+
+        <!--72 Long Board - Long skate (iniciación): --><item>Aprende a patinar ben co longskate (monopatín longo)."\n"Lembra traer roupa cómoda, casco, proteccións e o teu long."\n""\n"Datas: 20, 27 marzo, 24 abril</item>
+
+        <!--73 Manualidades: --><item>Globo aerostático: constrúe o teu propio globo aerostático en miniatura e bótao a voar."\n""\n"Data: 7 marzo</item>
+
+        <!--74 Manualidades: --><item>Papaventos: elaboración de papaventos de diferentes formas e tamaños para logo quedarmos e probar a voalos."\n""\n"Data: 28 febreiro</item>
+
+        <!--75 “Mañán foi domingo: as viaxes no tempo na literatura”: --><item>Urco editora co editor David Cortizo Conde e o escritor Jorge Emilio Bóveda farán unha aproximación histórica á narrativa de viaxes no tempo axudados dunha presentación multimedia para logo dun xeito lúdico elaborar un relato breve con dúas premisas, a primeira a data actual e a segunda formada a partir de varias tiradas de dados, podendo ser unha data futura ou do pasado."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 28 febreiro</item>
+
+        <!--76 Masaxe tailandesa:--><item>Nesta actividade realizaremos unha mobilización de todas as articulacións e un alongamento de toda a musculatura, o que produce unha grande relaxación e benestar."\n"A técnica realízase nunha colchoneta e non se utilizan cremas nin aceites."\n"Recomendamos levar roupa cómoda e esteira."\n"Actividade para maiores de 16."\n""\n"Datas: 6, 13, 20 febreiro e 6 marzo</item>
+
+        <!--77 Mecánica básica de bicis:--><item>Introdución á mecánica básica (parchear rodas, axuste de freos, de cambios, etc...) coa Asociación Deportiva Izel United Skate e BMX."\n"Trae a túa propia bicicleta e aprende a mantela e reparala."\n""\n"Data: 30 xaneiro, 6, 13 febreiro</item>
+
+        <!--78 Música de andar por casa:--><item>Instrumentos humildes da música tradicional: existe unha grande riqueza instrumental dentro do folclore galego."\n"Moitos destes instrumentos son autóctonos, outras foron introducidos co devir dos tempos, e outros moitos non se lles podería chamar propiamente instrumentos musicais, pois son ferramentas de traballo ou utensilios de cociña que foron empregados como instrumentos de percusión para acompañar o canto."\n"Obradoiro impartido por Os Chichisos. http://chichisos.wordpress.com"\n""\n"Data: 6 marzo</item>
+
+        <!--79 Noites en Lingua de signos:--><item>Como te poderías chamar na lingua do colectivo das persoas xordas?"\n"Nesta actividade poderaste achegar de xeito dinámico e divertido a este mundo partindo dun xogo co alfabeto dactilolóxico."\n"http://www.etnoga.com/blog"\n""\n"Data: 6 marzo</item>
+
+        <!--80 Obradoiro de ligue e sedución:--><item>Aprende as claves da linguaxe corporal e mellora as túas habilidades de comunicación efectiva."\n"A partir de 16 anos."\n""\n"Datas: 31 xaneiro e 13 marzo</item>
+
+        <!--81 Obradoiro de sexualidade:--><item>Impartido pola Asociación CCANVIHAR , poderemos aclarar as nosas dúbidas , ver a importancia da prevención e desmitificar falsas crenzas."\n"Actividade para maiores de 14 anos."\n""\n"Data: 30 xaneiro</item>
+
+        <!--82 Observación astronómica:--><item>Contempla cos monitores da Agrupación Astronómica Rías Baixas as lúas de Xúpiter, os aneis de Saturno, ademais de gozar dos cráteres da nosa lúa e de moitas cousas máis."\n"Farase unha mostra do ceo nocturno con recoñecemento das principais constelacións observables, os planetas, estrelas, nebulosas, cúmulos estelares, etc... incluíndo nocións de orientación."\n"Importante que leves moita roupa de abrigo e incluso unha esteira para botarte no chan e observar o ceo máis comodamente."\n"Trasladarémonos en autobús a un lugar por determinar. Se as condicións climatolóxicas non acompañan, trasladaremos a actividade de data."\n"Necesaria inscrición previa (menores acompañados)."\n""\n"Data: 13 marzo</item>
+
+        <!--83 Os Xogos da Fame:--><item>Que comecen os septuaxésimos xogos da fame!!!"\n"Convértete en Tributo do teu distrito, descobre as túas habilidades e enfróntate aos demais habitantes de Pandem para acadar o teu obxectivo: gañar os xogos da fame!"\n"Xogo en parellas inspirada na triloxía de “Os xogos da fame”."\n"Idades: 12-16 anos."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 21 de marzo</item>
+
+        <!--84 Os Paseo nocturno polo Gafos con chocolatada: --><item>Consiste nun percorrido coa Asociación Vaipolorío polo tramo rural do río (sendeiro do río Tomeza), 6 quilómetros, para rematar no restaurado muíño de Cabanas e degustar unha chocolatada."\n"Levar lanterna, calzado para auga e roupa de abrigo.En caso de choiva, a organización cambiará a data da actividade."\n"Actividade con inscrición previa (menores acompañados)."\n""\n"Data: 31 xaneiro</item>
+
+        <!--85 Patinaxe e xoquei en patíns (iniciación): --><item>Pasa un bo rato aprendendo a patinar. Empregaranse técnicas e exercicios básicos combinados con todo tipo de xogos."\n"Trae os teus propios patíns."\n""\n"Datas: 24, 31 xaneiro, 7, 28 febreiro</item>
+
+        <!--86 Patinaxe slálom (iniciación):--><item>Aprende as bases da patinaxe e mellora a túa técnica de movementos de slálom."\n"Leva roupa cómoda, auga e os teus propios patíns."\n""\n"Datas: 28 marzo, 11, 18 e 24 abril</item>
+
+        <!--87 Percusión tradicional  (D, tarrañolas, tambor...):--><item>Achégate a coñecer os ritmos e obxectos percutivos da percusión tradicional da man da Asociación Cultural Tralovalo."\n"Se tes algún instrumento de percusión tradicional podes traelo."\n""\n"Datas: 6, 13, 20, 27 febreiro</item>
+
+        <!--88 Perfumes vexetais: :--><item>Co monitorado de Ventos obteremos auga floral e esencias mediante a destilación con alambique."\n"Elaboración de perfumes seguindo receitas clásicas a base de auga floral, esencias e elementos vexetais."\n""\n"Data: 18 abril</item>
+
+        <!--89 Pins e chapas personalizadas::--><item>Crea pins a partir de chapas reciclándoas. Adórnaas ao teu gusto e con deseños personalizados."\n""\n"Data: 21 marzo</item>
+
+        <!--90 Pintura-Plakatstil:--><item>Vive en primeira persoa o mundo da arte e o deseño, a través da elaboración activa da túa propia obra de arte."\n"Non é unha actividade que requira elevada concentración ou complicadas técnicas, polo que se crea un clima distendido de compañeirismo, agradable e entretido."\n"Este tipo de técnica permite que calquera persoa poida participar sen necesidade de ter coñecementos artísticos previos."\n""\n"Datas: 20, 27 marzo e 17 abril</item>
+
+        <!--91 Ponte-caching:--><item>Na procura das orixes da cidade: emocionante e divertida xincana de equipos polo centro histórico de Pontevedra."\n"Xincana que irá de caché en caché amosando aos participantes os segredos sobre a historia da nosa cidade, contando unicamente cun plano, brúxula  e as pistas e indicacións que iredes atopando polos diferentes cachés ocultos en lugares emblemáticos da cidade."\n"Inscrición previa. Maiores de 16."\n""\n"Data: 20 marzo</item>
+
+        <!--92 Pontevedra 360º:--><item>Fotos panorámicas: o formato panorámico aporta unha visión da realidade que non coñecemos."\n"Aprende a facer unha panorámica dende o principio ata a montaxe no ordenador."\n"Maiores 16."\n""\n"Data: 20  marzo</item>
+
+        <!--93 Postres para intolerantes: --><item>Obradoiro para a elaboración de ricos postres para a intolerancia á lactosa e ao gluten."\n" Leva o teu propio mandil."\n""\n"Datas: 7 marzo e 10 abril</item>
+
+        <!--94 Programa de acompañamento no ocio de Noites Abertas a persoas con discapacidade intelectual: --><item>Unha vez máis, a Asociación  de Síndrome de Down Xuntos pon en marcha unha vez máis esta iniciativa coa idea de facilitar a participación de persoas con discapacidade intelectual nas actividades de Noites Abertas."\n""\n"Datas: todas as fins de semana.</item>
+
+        <!--95 Rei da pista ping pong: --><item>Demostra as túas habilidades xogando a este deporte."\n"Disputa partidas de ping pong e se gañas segue a competir cun/ha novo/a aspirante."\n""\n"Data: 7 marzo</item>
+
+        <!--96 Relaxación  divertida:  --><item>Di adeus ao estrés e aprende a relaxarte de forma divertida."\n"Empregaremos técnicas de relaxación, visualización, expresión corporal, xogos motores, de respiración, control postural e técnicas de automasaxe."\n"Leva unha esteira ademais de roupa cómoda"\n""\n"Datas: 13,21 marzo, 11 abril</item>
+
+        <!--97 Repostaría Internacional:  --><item>Aprende receitas de países como Finlandia, USA, República Checa... Achégate a diferentes culturas a través da gastronomía."\n"Maiores de 16."\n""\n"Datas: 30 xaneiro, 28 febreiro, 6, 20 marzo, 4 abril</item>
+
+        <!--98 Representación: "O Furancho" e teatro forum: --><item>Con Marián Bañobre e Isabel Risco, escrita e dirixida por Santiago Cortegoso da compañía Ibuprofeno Teatro."\n"Entrada de balde recollendo invitación unha hora antes na portelo do propio Teatro Principal."\n""\n"Data: 28 marzo</item>
+
+        <!--99 Retoque fotográfico: --><item>Introdúcete na edición, organización e retoque das túas fotos con Víctor Barro. Incorpora textos, emprega filtros, etc."\n"Maiores de 16 anos."\n""\n"Data: 13 marzo</item>
+
+        <!--100 Risoterapia:--><item>Disciplina terapéutica que consegue espertar en poucos minutos a nosa capacidade de sentir, amar, silenciar as nosas preocupacións, incrementar a nosa creatividade...empregando a risa como camiño."\n"Leva roupa cómoda, calcetíns grosos e un coxín."\n""\n"Datas: 24 xaneiro, 13 marzo, 10 e 24 abril</item>
+
+        <!--101 Robótica básica:--><item>Aprenderás a cargar no robot programación coa que poderás facer que o robot se mova en distintas traxectorias."\n"Engadindo un sensor de ultra sons o robot poderá explorar o entorno esquivando obstáculos."\n"Poderás comezar a entender o xeito de facer un robot básico do que partir para seguir aprendendo."\n"http://liceoartabro.wordpress.com/2014/08/05/curso-robotica-en-la-casa-castillo/"\n""\n"Data: 21 marzo</item>
+
+        <!--102 Rugby:--><item> o Club Mareantes Feminino Rugby Clube propón esta actividade para iniciarse neste deporte."\n"Coñece e descobre os valores do rugby tales como respecto, paixón, tolerancia... E elimina prexuízos e falsas crenzas sobre este deporte de contacto."\n"Levar roupa deportiva e auga."\n""\n"Datas: 7 febreiro e 7 marzo</item>
+
+        <!--103 Ruta cicloturística nocturna pola cidade:--><item>Ruta polo casco histórico de Pontevedra, de carácter circular, con paradas nos puntos de interese onde se fará unha breve explicación destes."\n"Trae a túa propia bicicleta e casco."\n"Maiores de 18."\n""\n"Data: 17 abril</item>
+
+        <!--104 Ruta guiada polo Lérez:--><item>Estudo da flora: ruta guiada da man da Asociación Pola Defensa da Ría acompañada de explicacións sobre a flora da zona, durante a cal cada participante recollerá mostras de plantas de interese."\n"Aproveitaremos para retirar plantas invasoras."\n" Actividade con inscrición previa (menores acompañados).Leva roupa de abrigo."\n"En caso de choiva, a organización cambiará a data da actividade. Consúltaa."\n""\n"Data: 7 marzo</item>
+
+        <!--105 Rutas en patíns:--><item>Trae os teus propios patíns, monopatín, long e proteccións para participar nestas rutas guiadas pola cidade."\n"Actividade para maiores de 14 anos."\n""\n"Datas: 20 febreiro e 18 abril</item>
+
+        <!--106 Servizo de voluntariado europeo:--><item>4 persoas voluntarias que diferentes países europeos, acompañarannos nas fins de semana apoiando á organización de Noites Abertas para que todo saia perfecto.</item>
+
+        <!--107 Sorteo de bonos NNAA:--><item>Fai o carné de Noites Abertas e participa nos sorteos para optar a bonos de 30 euros canxeables por libros de lectura."\n""\n"Datas: 6 febreiro, 6 marzo, 4 e 24 abril</item>
+
+        <!--108 Speed dating: 14-17 anos:--><item>Consiste nunha reunión de mozos e mozas que se coñecerán en intervalos de 5 minutos, rotando dunha mesa a outra."\n"Se che falta tempo ou espazos onde coñecer xente, aproveita esta ocasión."\n""\n"Data: 6 febreiro</item>
+
+        <!--109.Speed Dating: 18-25 anos:--><item>Consiste nunha reunión de mozos e mozas que se coñecerán en intervalos de 5 minutos, rotando dunha mesa a outra."\n"Se che falta tempo ou espazos onde coñecer xente, aproveita esta ocasión."\n""\n"Data: 6 marzo</item>
+
+        <!--110 Sushi, delicia xaponesa:--><item>A cultura xaponesa no seu máis amplo sentido."\n"Dende a súa tradición polas katanas mostrada nos coitelos, as súas técnicas de corte, a combinación e preservación dos seus alimentos e a sofisticación que leva a súa elaboración, faremos uns deliciosos pratos dentro da ampla variedade que existe."\n"Xa non volverás a mercalo feito!!"\n""\n"Datas: 28 marzo, 11 abril</item>
+
+        <!--111 Taichi e Chikung: artes marciais internas: --><item>O Taijiquan, ás veces escrito "taichi", é unha disciplina pertencente ás artes internas de boxeo chinés (Wushu)."\n"Tamén chamado "boxeo das sombras", disciplina formalizada no século XII, en China."\n"Os beneficios do Taichi para a saúde física e psíquica están amplamente demostrados."\n"Acode a esta actividade con roupa cómoda e calzado deportivo."\n"http://www.estoucheben.com"\n""\n"Datas: 23,30 xaneiro, 6, 13, 20.</item>
+
+        <!--112 Teatro: PAN! PAN!--><item>Conta a historia de Harry, un cowboy americano que viaxa de Mississippi a Arkansas perseguindo a un indio salvaxe que roubou á súa muller, da que está profundamente namorado."\n"A través da aventura deste antiheroe, redescubriremos ese mundo sen lei dos ranchos vaqueiros, as fedorentas cantinas e os desertos cheos de perigos."\n"Coma nun filme do Far West, amor e vinganza a partes iguais!"\n"Unha homenaxe de tres actrices, con moito humor e retranca, a esas películas cheas de homes salvaxes e sucios coas que nós, os nosos pais e avós medraron.8 personaxes, 5 espazos e toda a banda sonora desta obra creada por só 3 intérpretes. Todo en directo, sen artificios, sen trampa nin cartón!"\n"Actividade para a que precisas mercar entrada."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 27 marzo</item>
+
+        <!--113 Tecnomaxia:--><item>O Mago Richard presenta un espectáculo no que mestura distintos elementos: a maxia , o clown, a globoflexia, a música, a ciencia e as novas tecnoloxías, todo dentro dun clima lúdico de humor e de suspense."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 26 marzo</item>
+
+        <!--114 TeleNoiteS e Canle NNAA:--><item>Interésanos a túa visión de Noites Abertas. Achégate a esta actividade e participa na elaboración de vídeos sobre o programa que logo colgaremos na nosa propia canle."\n"Nós poñemos as cámaras, ti trae a túa imaxinación."\n""\n"Datas: 24 e 31 xaneiro, 6 febreiro, 6 e 14 marzo, 10, 11 e 18 abril</item>
+
+        <!--115 Tenis de mesa libre:--><item>Achegádevos ao Froebel e poderedes xogar de xeito libre ao tenis de mesa mentres se desenvolven as demais actividades."\n""\n"Datas: todas agás 7 marzo e 25 abril</item>
+
+        <!--116 Time Lapse: vídeos con fotos:--><item>Aprenderemos a facer Time Lapse con motivos urbanos e posteriormente a editar e montar o vídeo no ordenador."\n"Maiores de 16."\n""\n"Data: 27 marzo</item>
+
+        <!--117 Tiro con arco (iniciación):--><item>O Club Arco Teucro facilitarache unha inesquecíbel experiencia con esta modalidade deportiva que sempre quixeches probar."\n"Demostra a túa capacidade de concentración e apunta ben."\n"Actividade para maiores de 14 anos."\n""\n"Datas:24 xaneiro, 7 e 21 marzo</item>
+
+        <!--118 Torneo fútbol sala:--><item>Torneo que propón o Club CAFyD, con 3 categorías (cadete-xuvenil, sénior e feminina agrupada)."\n"Poderán participar un máximo de 8 equipos en cada categoría masculina e 4 na feminina."\n"Actividade con inscrición previa."\n"http://7a9cafyd.blogspot.com.es/"\n""\n"Data: 18 abril</item>
+
+        <!--119 Travesía en kaiak polas pontes do Lérez:--><item>Ruta nocturna en kaiak polo río Lérez."\n"Comezaremos e remataremos na praia fluvial, percorrendo as diferentes pontes que o atravesan."\n"Levar bañador, toalla e roupa de muda."\n"A organización facilitaravos traxes de neopreno."\n"Maiores de 18."\n""\n"Data: 10 abril</item>
+
+        <!--120 Unha cita con Europa: Italia, Letonia e Hungría:--><item>Xóvenes destes países que están a participar en Noites Abertas a través do programa de Voluntariado Europeo, Erasmus +, deseñaron esta actividade para que coñezades estes países veciños, as súas costumes, a súa cociña, deportes, tradicións e formas de vida."\n""\n"Data: 31 xaneiro</item>
+
+        <!--121 V Xornadas de manga e anime:--><item>Por quinto ano consecutivo e no marco de Noites Abertas, un grupo de mozos e mozas da nosa cidade volve organizar unha nova edición destas xornadas que pretenden dar a coñecer unha parte da cultura de ocio xaponesa relacionada coas series de debuxos e cómics nipóns."\n"Cosplay, videoxogos, origami, obradoiros, karaoke,... e moitas cousas máis."\n""\n"Datas: 17 e 18 abril</item>
+
+        <!--122 Virus e zombies:--><item>Partindo do libro “Apocalipse Z” do escritor pontevedrés Manel Loureiro, o cal transcorre integramente en Pontevedra, caracterizarémonos como persoas infectadas por un virus  que nos transforma en zombies."\n"Aprenderemos as técnicas básicas empregadas no cine para maquillarse coma un zombie."\n"Gravaremos toda a actuación en vídeo."\n"Infórmate en http://www.salondolibro.org"\n""\n"Data: 14 marzo</item>
+
+        <!--123 Visita á praza de abastos e elaboración de  superbatidos:--><item>Actividade diurna na que faremos un percorrido polos diferentes postos da praza de abastos coa monitora para familiarmos cos produtos frescos e aprender a recoñecelos."\n"Coñece a cociña de tempada, sostible e respectuosa co medio."\n"Posteriormente trasladarémonos á Casa Azul para participar nun obradoiro de elaboración de superbatidos, cos produtos frescos que acabamos de mercar."\n"Leva o teu mandil para participar comodamente na actividade."\n" Maiores de 16."\n""\n"Data: 28 febreiro</item>
+
+        <!--124 Xadrez (iniciación e partidas rápidas):--><item>Aprende xogando na túa primeira clase de xadrez, e se xa tes nivel afeccionado, divírtete coas distintas modalidades, reta e xoga contra mestres internacionais."\n"Os profesores da Escola Xadrez Pontevedra posúen titulacións de adestrador nacional e mestre internacional."\n"http://www.xadrezpontevedra.com"\n""\n"Data: 13 e 20 febreiro</item>
+
+        <!--125 Xogando a meditar:--><item>Achégate á meditación e ao ioga a través de exercicios sinxelos, individuais e en parellas."\n"Haberá movemento, inmobilidade, silencio, risas e pura enerxía."\n"Leva roupa cómoda e esteira."\n"A partir de 14 anos."\n""\n"Datas: 27 febreiro, 20 e 27 marzo</item>
+
+        <!--126 Xogos de cartas de velocidade:--><item>Achégate ao xogo do cadrado e da burundanga e participa en partidas divertidas."\n""\n"Datas: 23 e 31 xaneiro</item>
+
+        <!--127 Xogos predeportivos e sensoriais: --><item>Xogos de presentación e desinhibición, predeportivos e de cooperación, actividades adaptadas a persoas con diversidade funcional..."\n"Un espazo onde todos e todas experimentaredes situacións que provoquen o espertar sensorial."\n"Leva roupa e calzado deportivo."\n""\n"Data: 27 febreiro</item>
+
+        <!--128 Xoiería vexetal: --><item>Confecciona colgantes, broches e pendentes, partindo de pequenas rodelas de ramas autóctonas e flores secas."\n""\n"Data: 10 abril</item>
+
+        <!--129 Zumba ®: --><item>É unha disciplina fitness de orixe colombiana , enfocada por unha parte a manter un corpo saudable e por outra,  a desenvolver, fortalecer e dar flexibilidade mediante movementos de baile combinados cunha serie de rutinas aeróbicas."\n"Levar roupa deportiva e auga."\n""\n"Datas: 14, 21, 28 marzo e 11 abril</item>
+
+        <!--130 Concerto FEST--><item>Para rematar as xornadas de NOITES ABERTAS disfrutaremos dun concerto para animar a festa</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="febreiro">
+
+        <item>Venres 6</item>
+        <item>Sabado 7</item>
+        <item>Venres 13</item>
+        <item>Venres 20</item>
+        <item>Venres 27</item>
+        <item>Sabado 28</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril1.xml -->
+    <eat-comment/>
+    <string-array name="ha11">
+            <!--0-->   <item>18-19h</item>
+        </string-array>
+    <string-array name="ha12">
+            <!--0-->   <item>20-21,30h</item>
+            <!--1-->   <item>20-22h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>20,30-23,30h</item>
+            <!--4-->   <item>21-23h</item>
+            <!--5-->   <item>21-23,30h</item>
+        </string-array>
+    <string-array name="ha13">
+            <!--0-->   <item>22-00h</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril2.xml -->
+    <eat-comment/>
+    <string-array name="ha21">
+        <!--0-->   <item>20-22h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-22,30h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22,30-00,30h</item>
+        <!--0-->   <item>23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril3.xml -->
+    <eat-comment/>
+    <string-array name="ha31">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+    <string-array name="ha32">
+        <!--0-->   <item>20-23h</item>
+    </string-array>
+    <string-array name="ha33">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-23,30h</item>
+        <!--5-->   <item>21-00h</item>
+    </string-array>
+    <string-array name="ha34">
+        <!--0-->   <item>20,30-00h</item>
+        <!--1-->   <item>21,30-23,30h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="ha35">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril4.xml -->
+    <eat-comment/>
+    <string-array name="ha41">
+        <!--0-->   <item>18-00h</item>
+        <!--0-->   <item>20-23h</item>
+        <!--0-->   <item>19-21h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21h</item>
+        <!--0-->   <item>22-23h</item>
+        <!--0-->   <item>21-22h</item>
+    </string-array>
+    <string-array name="ha42">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>22-00h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="ha43">
+        <!--0-->   <item>20,30-00h</item>
+    </string-array>
+    <string-array name="ha44">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+    <string-array name="ha45">
+        <!--0-->   <item>18h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril5.xml -->
+    <eat-comment/>
+    <string-array name="ha51">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+    <string-array name="ha52">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>21-23h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="ha53">
+        <!--0-->   <item>20-01h</item>
+    </string-array>
+    <string-array name="ha54">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="ha55">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril6.xml -->
+    <eat-comment/>
+    <string-array name="ha61">
+        <!--0-->   <item>20h</item>
+        <!--0-->   <item>20-22h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-22h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22-23,30h</item>
+    </string-array>
+    <string-array name="ha62">
+        <!--0-->   <item>20-22h</item>
+    </string-array>
+    <string-array name="ha63">
+        <!--0-->   <item>17-22h</item>
+    </string-array>
+    <string-array name="ha64">
+        <!--0-->   <item>21-01,30h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril7.xml -->
+    <eat-comment/>
+    <string-array name="ha71">
+        <!--0-->   <item>18-19h</item>
+    </string-array>
+    <string-array name="ha72">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h.</item>
+        <!--2-->   <item>21-22h.</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>22-00h</item>
+        <!--5-->   <item>23h</item>
+
+    </string-array>
+    <string-array name="ha73">
+        <!--0-->   <item>21-22h</item>
+    </string-array>
+    <string-array name="ha74">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="ha75">
+        <!--0-->   <item>22,30-00h</item>
+    </string-array>
+    <string-array name="ha76">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/abril8.xml -->
+    <eat-comment/>
+    <string-array name="ha81">
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro1.xml -->
+    <eat-comment/>
+    <string-array name="hf11">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>20-23h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>20,30-22h</item>
+            <!--4-->   <item>21h</item>
+            <!--5-->   <item>22-23,30h</item>
+            <!--6-->   <item>22-00h</item>
+            <!--7-->   <item>23h</item>
+        </string-array>
+    <string-array name="hf12">
+            <!--0-->   <item>20-21,30h</item>
+            <!--1-->   <item>21-23h</item>
+            <!--2-->   <item>20-22h</item>
+            <!--3-->   <item>22-00h</item>
+        </string-array>
+    <string-array name="hf13">
+            <!--0-->   <item>20,30-22,30h</item>
+            <!--1-->   <item>22-23h</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro2.xml -->
+    <eat-comment/>
+    <string-array name="hf21">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23,30h</item>
+        <!--3-->   <item>22-00h</item>
+        <!--4-->   <item>22-23h</item>
+    </string-array>
+    <string-array name="hf22">
+        <!--0-->   <item>19,30-21h</item>
+        <!--1-->   <item>21-23h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="hf23">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf24">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hf25">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro3.xml -->
+    <eat-comment/>
+    <string-array name="hf31">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-00h</item>
+        <!--4-->   <item>21-00h</item>
+        <!--5-->   <item>22-23,30h</item>
+        <!--6-->   <item>21-22h</item>
+    </string-array>
+    <string-array name="hf32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+        <!--3-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf33">
+        <!--0-->   <item>20,30-22,30h</item>
+        <!--0-->   <item>22-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro4.xml -->
+    <eat-comment/>
+    <string-array name="hf41">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-00h</item>
+        <!--3-->   <item>21-00h</item>
+        <!--4-->   <item>22-23,30h</item>
+        <!--5-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf42">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hf43">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf44">
+        <!--0-->   <item>20,30-22,30h</item>
+        <!--1-->   <item>22-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro5.xml -->
+    <eat-comment/>
+    <string-array name="hf51">
+        <!--0-->   <item>18-21h</item>
+        <!--1-->   <item>19,30-20,30h</item>
+    </string-array>
+    <string-array name="hf52">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>22-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf53">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>22,30-00,30h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf54">
+        <!--0-->   <item>22-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/febreiro6.xml -->
+    <eat-comment/>
+    <string-array name="hf61">
+        <!--0-->   <item>12-14,30h</item>
+    </string-array>
+    <string-array name="hf62">
+        <!--0-->   <item>19-20,30h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="hf63">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf64">
+        <!--0-->   <item>21-22,30h</item>
+        <!--1-->   <item>19,30-21h</item>
+    </string-array>
+    <string-array name="hf65">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hf66">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo1.xml -->
+    <eat-comment/>
+    <string-array name="hm11">
+            <!--0-->   <item>19-21h</item>
+        </string-array>
+    <string-array name="hm12">
+            <!--0-->   <item>20h</item>
+            <!--1-->   <item>20-21,30h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>21-22,30h</item>
+            <!--4-->   <item>22-23,30h</item>
+            <!--5-->   <item>22-23,30h</item>
+            <!--6-->   <item>23h</item>
+        </string-array>
+    <string-array name="hm13">
+            <!--0-->   <item>20,30-22h</item>
+            <!--1-->   <item>20-00h</item>
+            <!--2-->   <item>22-00h</item>
+        </string-array>
+    <string-array name="hm14">
+            <!--0-->   <item>21-23h</item>
+        </string-array>
+    <string-array name="hm15">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>20-22h</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo2.xml -->
+    <eat-comment/>
+    <string-array name="hm21">
+            <!--0-->   <item>17-19h</item>
+        </string-array>
+    <string-array name="hm22">
+            <!--0-->   <item>19-20,30h</item>
+        </string-array>
+    <string-array name="hm23">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>21-00h</item>
+            <!--2-->   <item>22-00h</item>
+        </string-array>
+    <string-array name="hm24">
+            <!--0-->   <item>19,30-21h</item>
+            <!--1-->   <item>21,30-23h</item>
+        </string-array>
+    <string-array name="hm25">
+            <!--0-->   <item>22-00h</item>
+        </string-array>
+    <string-array name="hm26">
+            <!--0-->   <item>21-23h</item>
+            <!--1-->   <item>21-23h</item>
+        </string-array>
+    <string-array name="hm27">
+            <!--0-->   <item>22-01h</item>
+        </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo3.xml -->
+    <eat-comment/>
+    <string-array name="hm31">
+        <!--0-->   <item>18-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="hm32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21-00h</item>
+        <!--0-->   <item>21,30-23,30h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm33">
+        <!--0-->   <item>20-00h</item>
+        <!--1-->   <item>22-00h</item>
+        <!--2-->   <item>21-00h</item>
+    </string-array>
+    <string-array name="hm34">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hm35">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo4.xml -->
+    <eat-comment/>
+    <string-array name="hm41">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="hm42">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-23,30h</item>
+        <!--5-->   <item>22-23h</item>
+        <!--6-->   <item>22-23,30h</item>
+    </string-array>
+    <string-array name="hm43">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-21,30h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="hm44">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo5.xml -->
+    <eat-comment/>
+    <string-array name="hm51">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="hm52">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20,30-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-22,30h</item>
+    </string-array>
+    <string-array name="hm53">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="hm54">
+        <!--0-->   <item>21-00h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm55">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hm56">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo6.xml -->
+    <eat-comment/>
+    <string-array name="hm61">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+        <!--2-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="hm62">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-23h</item>
+        <!--4-->   <item>22-23h</item>
+    </string-array>
+    <string-array name="hm63">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20,30-00h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm64">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo7.xml -->
+    <eat-comment/>
+    <string-array name="hm71">
+        <!--0-->   <item>18,30h</item>
+
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo8.xml -->
+    <eat-comment/>
+    <string-array name="hm81">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+        <!--2-->   <item>21h</item>
+    </string-array>
+    <string-array name="hm82">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm83">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="hm84">
+        <!--0-->   <item>21-00h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm85">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/marzo9.xml -->
+    <eat-comment/>
+    <string-array name="hm91">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+     </string-array>
+    <string-array name="hm92">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-22h</item>
+        <!--3-->   <item>22-23h</item>
+    </string-array>
+    <string-array name="hm93">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>20,30-00h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm94">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>21,30h</item>
+        <!--2-->   <item>22,30h</item>
+    </string-array>
+    <string-array name="hm95">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hm96">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hm97">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro1.xml -->
+    <eat-comment/>
+    <string-array name="hx11">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>21-00h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-23,30h</item>
+        <!--4-->   <item>22-00h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>21,30–00h</item>
+
+    </string-array>
+    <string-array name="hx12">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>22-00h</item>
+        <!--2-->   <item>22,30-00h </item>
+    </string-array>
+    <string-array name="hx13">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro2.xml -->
+    <eat-comment/>
+    <string-array name="hx21">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hx22">
+        <!--0-->   <item>19,30-21h</item>
+        <!--1-->   <item>21-23h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="hx23">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+    </string-array>
+    <string-array name="hx24">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="hx25">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro3.xml -->
+    <eat-comment/>
+    <string-array name="hx31">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>20,30-23,30h</item>
+        <!--4-->   <item>21-23h</item>
+        <!--5-->   <item>21-23h</item>
+        <!--6-->   <item>22-23,30h</item>
+        <!--7-->   <item>21-22,30h</item>
+    </string-array>
+    <string-array name="hx32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+        <!--3-->   <item>22,30-00h</item>
+    </string-array>
+    <string-array name="hx33">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/xaneiro4.xml -->
+    <eat-comment/>
+    <string-array name="hx41">
+        <!--0-->   <item>20-23h</item>
+    </string-array>
+    <string-array name="hx42">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21,30-23,30h</item>
+        <!--5-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="hx43">
+        <!--0-->   <item>21-23h</item>
+        <!--0-->   <item>21-23,30h</item>
+        <!--0-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="hx44">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+    </string-array>
+    <string-array name="hx45">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="marzo">
+        <item>Venres 6</item>
+        <item>Sabado 7</item>
+        <item>Venres 13</item>
+        <item>Sabado 14</item>
+        <item>Venres 20</item>
+        <item>Sabado 21</item>
+        <item>Xoves 26</item>
+        <item>Venres 27</item>
+        <item>Sabado 28</item>
+    </string-array>
+    <string-array name="xaneiro">
+        <item>Venres 23</item>
+        <item>Sabado 24</item>
+        <item>Venres 30</item>
+        <item>Sabado 31</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/colores.xml -->
+    <eat-comment/>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="Black">#000000</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DimGray">#696969</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Goldenrod">#DAA520</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Khaki">#F0E68C</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="Lime">#00FF00</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="MediumBlue">#0000CD</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="MediumVioletRed">#C71585</color>
+    <color name="MidnightBlue">#191970</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="Moccasin">#FFE4B5</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="Navy">#000080</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="Olive">#808000</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleGoldenrod">#EEE8AA</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="Purple">#800080</color>
+    <color name="Red">#FF0000</color>
+    <color name="RosyBrown">#BC8F8F</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="SandyBrown">#F4A460</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="Seashell">#FFF5EE</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="SlateGray">#708090</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Teal">#008080</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="White">#FFFFFF</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CustomTextView"><attr format="string" name="fuente"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">6587000</integer>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/array.xml -->
+    <eat-comment/>
+    <string name="actividades_programa"><b><u>ACTIVIDADES NOITES ABERTAS 2015</u></b></string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name"/>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/avisos.xml -->
+    <eat-comment/>
+    <string name="aviso0">Actividades do XVI Salón do Libro Infantil e Xuvenil de Pontevedra. Para as actividades de Tecnomaxia e Pan! Pan! tes que mercar entrada. Infórmate en http://www.salondolibro.org</string>
+    <string name="aviso1">Leva unha esteira ademais de roupa cómoda</string>
+    <string name="aviso10">Entrada libre con invitación a retirar unha hora antes da función no propio Teatro</string>
+    <string name="aviso2">Traer bicis vellas para reparar</string>
+    <string name="aviso3">Dependendo do caso, leva material específico para a actividade: patíns, longskate,  bicicleta ou hula hoop. Protectores e casco</string>
+    <string name="aviso4">Leva ao teu can con correa e colar metálico</string>
+    <string name="aviso5">Leva o instrumento musical e cables</string>
+    <string name="aviso6">Repartiranse traxes de neopreno a participantes</string>
+    <string name="aviso7">Inscrición previa. Leva roupa de abrigo."\n"En caso de choiva, a organización cambiará a data da actividade. Consúltaa</string>
+    <string name="aviso8">Levar roupa para customizar</string>
+    <string name="aviso9">Inscrición previa</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/colaboradores.xml -->
+    <eat-comment/>
+    <string name="col1">Colaboradores</string>
+    <string name="col2"><u><b>ENTIDADES QUE PARTICIPAN EN NOITES ABERTAS E COAS QUE PODES CONTACTAR A TRAVÉS DAS ACTIVIDADES</b></u></string>
+    <string name="col3"><b>ASOCIACIÓNS E CLUBES:</b></string>
+    <string name="col4"><b>Asociación Astronómica Rías Baixas:</b> observación astronómica"\n"
+        <b>Asociación Cultural 105 Besos:</b> desinhibición de rúa "\n"
+        <b>Asociación Cultural Tralovalo:</b> percusión tradicional (pandeireta, tarrañolas, tambor)"\n"
+        <b>Asociación Cultural Trépia:</b> baile galego"\n"
+        <b>Asociación Danzit.es:</b> danza contemporánea e Zumba®"\n"
+        <b>Asociación de Síndrome de Down "Xuntos":</b> programa acompañamento no ocio a persoas con discapacidade intelectual "\n"
+        <b>Asociación Deportiva Izel United Skate e BMX: </b> mecánica básica de bicis"\n"
+        <b>Asociación Galega de Percutas OMAR:</b> djembé"\n"
+        <b>Asociación Galega do Profesorado: </b> Servizo de Voluntariado Europeo, baile deportivo en grupo, camisetas e bolsos “Batik” e “Unha cita con Europa:Italia, Letonia e Hungría” "\n"
+        <b>Asociación Os Chichisos:</b> obradoiro “Música de andar por casa. Instrumentos humildes da música tradicional”"\n"
+        <b>APDR:</b> ruta guiada polo Lérez: estudo da flora e obradoiro de elaboración dun herbario"\n"
+        <b>Arco Teucro:</b> tiro con arco"\n"
+        <b>CAFyD. Clube Deportivo CC. da Actividade Física e do Deporte:</b> torneo de fútbol sala, fútbol 7 e fútbol sala"\n"
+        <b>CCANVIHAR:</b> obradoriro de sexualidade"\n"
+        <b>AMFIV (Asoc. Minusválidos Físicos de Vigo):</b> 3x3 baloncesto en cadeira de rodas"\n"
+        <b>Club Baloncesto Estudantes de Pontevedra:</b> 3x3 baloncesto en cadeira de rodas"\n"
+        <b>Escola Hungaresa de Esgrima Pontevedra:</b>esgrima e loita escénica"\n"
+        <b>Escola Xadrez Pontevedra:</b> xadrez (iniciación e partidas rápidas)"\n"
+        <b>Escola de Tempo Libre Barlovento:</b> ruta cicloturística nocturna e travesía en kaiak polas pontes do Lérez"\n"
+        <b>Llu Llu Teatro:</b> espectáculo promocional de  NNAA"\n"
+        <b>Mareantes Feminino Rugby Club: </b> rugby"\n"
+        <b>Vailoporío:</b> paseo nocturno polo Gafos con chocolatada"\n"</string>
+    <string name="col5"><b>EMPRESAS:</b></string>
+    <string name="col6">
+        <b>Anias:</b> cociña"\n"
+        <b>Estouche Ben! Centro de Terapias:</b> Taichi e Chikung, artes marciais internas"\n"
+        <b>Etnoga. Patrimonio Cultural:</b> Noites de Lingua de signos"\n"
+        <b>Fogar12Fogar:</b> flores e orellas de Entroido e Chocolates para Pascua"\n"
+        <b>Ibuprofeno Teatro:</b> "Descobre o teatro por dentro", representación: "O Furancho", teatro forum"\n"
+        <b>Clínica del Masaje:</b> masaxe tailandesa"\n"
+        <b>Nova Xestión Cultural:</b>Campaña publicitaria e  APP Noites Abertas"\n"
+        <b>Paralel Store S.L:</b> iniciación á patinaxe e xoquei en patíns"\n"
+        <b>Risotadas:</b> cestaría tradicional, caixón flamenco e rutas en patíns"\n"
+        <b>Singenerodedudas CB:</b> páxina web"\n"
+        <b>The Out Back Languages:</b> ligar con lingua de signos"\n"
+        <b>Todo Eventos Galicia:</b>fofuchas"\n"
+        <b>Ventos, estudos ambientais:</b> ex-libris: personaliza os teus libros, encadernación eco, comendo os recursos: marmeladas, xoiería vexeta, perfumes vexetais"\n"</string>
+    <string name="col7"><u><b>PROPOSTAS DE COLECTIVOS XUVENÍS E MOCIDADE A NIVEL INDIVIDUAL:</b></u></string>
+    <string name="col8">O resto de actividades foron deseñadas e propostas por colectivos xuvenís informais e por xente nova a nivel individual, e serán elas e eles quen as levarán a cabo</string>
+    <string name="colaboran">Local de Música, IMD, CEIP Froebel, Casino Mercantil, Asociación Galega de Formación do Profesorado, Youth in action 2, Plan Municipal de
+Prevención de Drogas e Plan Municipal de Igualdade, Pazo da Cultura e Teatro Principal</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/colaboradores.xml -->
+    <eat-comment/>
+    <string name="financia">FINANCIA</string>
+    <string name="financia2">Ministerio de Sanidade, Servicios Sociais e igualdade e PNSD</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="folleto1"><u><b>DESCARGA O DESPLEGABLE INFORMATIVO NOITES ABERTAS 2015</b></u></string>
+    <string name="folleto2"><u><b>DESCARGA O DESPLEGABLE INFORMATIVO DE NOITES ABERTAS 2015</b></u></string>
+    <string name="folleto2b"><b>Nel poderas atopar toda a información respecto ás xornadas en formato papel</b></string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/inicio.xml -->
+    <eat-comment/>
+    <string name="inicio1"><b><u>COUSAS QUE TES QUE SABER SOBRE AS ACTIVIDADES</u></b></string>
+    <string name="inicio10"><u><b>CARNÉ DE SOCIO/A:</b></u></string>
+    <string name="inicio10b">Fai o teu carné de socio/a."\n"Non é requisito para entrar nas actividades pero permíteche participar nos sorteos de bonos para mercar libros de letura</string>
+    <string name="inicio11"><u><b>PROGRAMA DE ACOMPAÑAMENTO NO OCIO DE NOITES ABERTAS A PERSOAS CON DISCAPACIDADE INTELECTUAL:</b></u></string>
+    <string name="inicio11b">En colaboración coa Asociación de Síndrome de Down "Xuntos", este programa permite formar un grupo con acompañante para acudir  ás actividades, nas que logo se participa libremente, cada quen en función dos seus intereses e xa sen acompañamento. Persoas interesadas contactar coa asociación: 986 865 538 </string>
+    <string name="inicio12"><b>Comparte a experiencia cos teus amigos</b></string>
+    <string name="inicio2"><b>De balde:</b></string>
+    <string name="inicio2b">Todas as actividades son gratuítas.</string>
+    <string name="inicio3"><b>Prazas dispoñibles:</b></string>
+    <string name="inicio3b">Algunhas actividades teñen límite no nº de participantes para o que se farán sorteos das prazas se chegado o caso hai
+máis participantes ca prazas dispoñibles.</string>
+    <string name="inicio4"><b>Inscrición previa:</b>.</string>
+    <string name="inicio4b">Algunhas actividades requiren inscrición previa na Oficina de Xuventude chamando ao 986 840367 (de luns a venres e de 9 a 14h) ou a través de <a href="xuventude@pontevedra.eu">xuventude@pontevedra.eu</a>:
+“PonteCaching: na procura das orixes da cidade” , observación astronómica, IIITorneo de Magic NNAA, paseo nocturno polo Gafos, ruta guiada polo Lérez, descobre o teatro por dentro, Torneo de fútbol sala.
+Acceso sen inscrición sempre que quedaran prazas dispoñibles.</string>
+    <string name="inicio5"><b>Debes levar...</b></string>
+    <string name="inicio5b">Fíxate nas iconas dalgunhas actividades, son avisos importantes do que tes que saber antes de acudir á actividade.</string>
+    <string name="inicio6"><b><u>IDADES</u></b></string>
+    <string name="inicio6b">Todas as actividades van dirixidas a mozos e mozas de 12 a 30 anos, agás as que se dirixen a mozos/as maiores de:</string>
+    <string name="inicio7"><i>14 anos</i></string>
+    <string name="inicio7b">Esgrima e loita escénica, tiro con arco, obradoiro de sexualidade, ruta en patíns, xogando a meditar e coro moderno</string>
+    <string name="inicio8"><i>16 anos</i></string>
+    <string name="inicio8b">Desinhibición de rúa, masaxe tailandesa, improvisación coa guitarra, compoñer unha canción, combo de improvisación, guitarra funky e blues, visita á praza de abastos e elaboración de superbatidos, cociña enerxética, Do it yourself: roupa e decoración, Amor e Sexo: mitos, retoque fotográfico, Pontevedra 360º: fotos panorámicas, Time Lapse: vídeos con fotos, repostaría internacional, adestramento canino, obradoiro de ligue e sedución, Ponte-caching: na procura das orixes da cidade, constrúe instrumentos musicais de refugallo, fotografía do 1851: colodión húmido, laboratorio nocturno:experimentos científicos e "Descobre o teatro por dentro"</string>
+    <string name="inicio9"><i>18 anos</i></string>
+    <string name="inicio9b">Travesía en kaiak polas pontes do Lérez, ruta cicloturística nocturna, ligar con lingua de signos e defensa persoal-hapkido</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/lugares.xml -->
+    <eat-comment/>
+    <string name="localizaciones1"><b><u>ESPAZOS DE NOITES ABERTAS</u></b></string>
+    <string name="localizaciones10"><b>PISTAS DE CAMPOLONGO</b></string>
+    <string name="localizaciones11"><b>PRAIA FLUVIAL DO LÉREZ</b></string>
+    <string name="localizaciones12"><b>PRAZA DE ABASTOS</b></string>
+    <string name="localizaciones13"><b>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</b></string>
+    <string name="localizaciones14"><b>PRAZA DA PEREGRINA</b></string>
+    <string name="localizaciones15"><b>PRAZA DE SANTA MARÍA</b></string>
+    <string name="localizaciones16"><b>SENDEIRO DO RIO LÉREZ</b></string>
+    <string name="localizaciones17"><b>SENDEIRO DO RIO GAFOS</b></string>
+    <string name="localizaciones18"><b>TEATRO PRINCIPAL</b></string>
+    <string name="localizaciones2"><b>CAMPOS DE HERBA SINTÉTICA</b></string>
+    <string name="localizaciones3"><b>CASA AZUL</b></string>
+    <string name="localizaciones4"><b>CEIP FROEBEL</b></string>
+    <string name="localizaciones5"><b>LOCAL DE MÚSICA </b></string>
+    <string name="localizaciones6"><b>PARQUE DE CANS</b></string>
+    <string name="localizaciones7"><b>PAVILLÓN MULTIUSOS</b></string>
+    <string name="localizaciones8"><b>PAVILLÓN MUNICIPAL DOS DEPORTES</b></string>
+    <string name="localizaciones9"><b>PAZO DA CULTURA: XVI Salón do Libro Infantil e Xuvenil de Pontevedra</b></string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="menu_settings">Settings</string>
+    <string name="meses_item0">Xaneiro</string>
+    <string name="meses_item1">Febreiro</string>
+    <string name="meses_item2">Marzo</string>
+    <string name="meses_item3">Abril</string>
+    <string name="meses_item4">Maio</string>
+    <string name="name">Noites Abertas 2015</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/colaboradores.xml -->
+    <eat-comment/>
+    <string name="organiza">ORGANIZA E FINANCIA</string>
+    <string name="organiza2">Concello de Pontevedra - Concellaría de Xuventude</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/imagenes.xml -->
+    <eat-comment/>
+    <string name="principal">imagen colaboradores</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/info_principal.xml -->
+    <eat-comment/>
+    <string name="principal0">ACCEDE Á NOSA PROGRAMACIÓN</string>
+    <string name="principal1"><b>INFORMACIÓN:</b></string>
+    <string name="principal2">Casa Azul, rúa de Sor Lucía, 2, 3º 36002 Pontevedra"\n"Tel. 986 840367</string>
+    <string name="principal3"><a href="xuventude@pontevedra.eu">"\t"xuventude@pontevedra.eu</a></string>
+    <string name="principal4"><a href="xuventude.pontevedra.eu"/>"\t"xuventude.pontevedra.eu</string>
+    <string name="principal5"><a href="www.noitesabertas.gal"/>"\t"www.noitesabertas.gal</string>
+    <string name="principal6"><a href="www.facebook.com/noitesabertas">"\t"www.facebook.com/noitesabertas</a></string>
+    <string name="principal7"><a href="www.twitter.com/noitesabertas">"\t"www.twitter.com/noitesabertas</a></string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="subtitulo_pestana4">Noites Abertas,2014</string>
+    <string name="titulo_pestana4">PROGRAMACIÓN</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="FondoBarraPersonalizada">
+        <item name="android:background">@drawable/cabecera1</item>
+    </style>
+    <style name="TemaPersonalizado" parent="android:Theme">
+        <item name="android:windowTitleSize">40dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/FondoBarraPersonalizada</item>
+
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo1">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="estilo1_pestañas">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold|</item>
+
+
+    </style>
+    <style name="estilo1_pestañas_idades">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dip</item>
+        <item name="android:textStyle">bold|</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:padding">5dip</item>
+
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo1_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="estilo1_tablet">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo2">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="estilo2_horas">
+        <item name="fuente">Museo</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+
+
+
+
+
+
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo2_horas_tablet">
+    <item name="fuente">Museo</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:textColor">@color/Black</item>
+    <item name="android:typeface">serif</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item></style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo2_pestañas">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo2_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="estilo2_tablet">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo3">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textColorLink">@color/White</item>
+        <item name="android:textStyle">bold</item>
+         <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_marginRight">5dip</item>
+
+
+    </style>
+    <style name="estilo3_actividades">
+        <item name="fuente">Museo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:textColorLink">@color/White</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5dip</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo3_actividades_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5dip</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo3_descripciones">
+
+
+        <item name="fuente">Museo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">#e4072f</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:textColorLink">@color/White</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">4dp</item>
+
+
+
+
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo3_descripciones_tablet">
+
+    <item name="fuente">Museo</item>
+    <item name="android:typeface">serif</item>
+        <item name="android:autoLink">web</item>
+    <item name="android:textColor">#e4072f</item>
+        <item name="android:textColorLink">@color/White</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:gravity">start</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_margin">4dp</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo3_pestañas">
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColorLink">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:paddingRight">15dip</item>
+
+
+
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo3_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColorLink">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:paddingRight">15dip</item>
+    </style>
+    <style name="estilo3_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textColorLink">@color/White</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_marginRight">5dip</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="estilo_boton_principal">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/mancha_programa</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:onClick">sendMessagep"</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles_tablet.xml -->
+    <eat-comment/>
+    <style name="estilo_boton_principal_tablet">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/mancha_programa</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:onClick">sendMessagep"</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- From: file:/C:/Users/Arantxa/AndroidstudioProjects/AppNoites/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="iconos_avisos">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+
+
+    </style>
+</resources>

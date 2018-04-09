@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="aa11">
+            <!--0-->   <item>Adestramento canino</item>
+        </string-array>
+        <string-array name="ha11">
+            <!--0-->   <item>18-19h</item>
+        </string-array>
+        <string-array name="aa12">
+            <!--0-->   <item>Hula hooping- Hula dance</item>
+            <!--1-->   <item>Desinhibición de rúa</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Ganchillo XXL: alfombra</item>
+            <!--4-->   <item>Delicias de chocolate: ovos e bombóns</item>
+            <!--5-->   <item>Coiro: funda de libreta</item>
+        </string-array>
+        <string-array name="ha12">
+            <!--0-->   <item>20-21,30h</item>
+            <!--1-->   <item>20-22h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>20,30-23,30h</item>
+            <!--4-->   <item>21-23h</item>
+            <!--5-->   <item>21-23,30h</item>
+        </string-array>
+        <string-array name="aa13">
+            <!--0-->   <item>Djembé</item>
+        </string-array>
+        <string-array name="ha13">
+            <!--0-->   <item>22-00h</item>
+        </string-array>
+</resources>

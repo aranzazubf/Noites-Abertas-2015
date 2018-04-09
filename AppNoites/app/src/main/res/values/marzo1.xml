@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string-array name="am11">
+            <!--0-->   <item>Encadernación e deseño de cubertas</item>
+        </string-array>
+        <string-array name="hm11">
+            <!--0-->   <item>19-21h</item>
+        </string-array>
+        <string-array name="am12">
+            <!--0-->   <item>TeleNoites</item>
+            <!--1-->   <item>Hula hooping- Hula dance</item>
+            <!--2-->   <item>Tenis de mesa libre</item>
+            <!--3-->   <item>Repostaría internacional</item>
+            <!--4-->   <item>Baile latino</item>
+            <!--5-->   <item>Speed Dating: 18-25 anos</item>
+            <!--6-->   <item>Sorteo Noites Abertas</item>
+        </string-array>
+        <string-array name="hm12">
+            <!--0-->   <item>20h</item>
+            <!--1-->   <item>20-21,30h</item>
+            <!--2-->   <item>20,30-23,30h</item>
+            <!--3-->   <item>21-22,30h</item>
+            <!--4-->   <item>22-23,30h</item>
+            <!--5-->   <item>22-23,30h</item>
+            <!--6-->   <item>23h</item>
+        </string-array>
+        <string-array name="am13">
+            <!--0-->   <item>Noites en Lingua de signos</item>
+            <!--1-->   <item>Fotografía do 1851: colodión húmido</item>
+            <!--2-->   <item>Masaxe tailandesa</item>
+        </string-array>
+        <string-array name="hm13">
+            <!--0-->   <item>20,30-22h</item>
+            <!--1-->   <item>20-00h</item>
+            <!--2-->   <item>22-00h</item>
+        </string-array>
+        <string-array name="am14">
+            <!--0-->   <item>Defensa persoal. Hapkido</item>
+        </string-array>
+        <string-array name="hm14">
+            <!--0-->   <item>21-23h</item>
+        </string-array>
+        <string-array name="am15">
+            <!--0-->   <item>Compoñer unha canción (iniciación)</item>
+            <!--1-->   <item>Música de andar por casa. Instrumentos humildes da música tradicional</item>
+        </string-array>
+        <string-array name="hm15">
+            <!--0-->   <item>20-22h</item>
+            <!--1-->   <item>20-22h</item>
+        </string-array>
+
+
+    </resources>
+

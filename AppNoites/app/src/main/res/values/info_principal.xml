@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="principal0">ACCEDE Á NOSA PROGRAMACIÓN</string>
+    <string name="principal1"><b>INFORMACIÓN:</b></string>
+    <string name="principal2">Casa Azul, rúa de Sor Lucía, 2, 3º 36002 Pontevedra"\n"Tel. 986 840367</string>
+    <string name="principal3"><a href="xuventude@pontevedra.eu">"\t"xuventude@pontevedra.eu</a></string>
+    <string name="principal4"><a href="xuventude.pontevedra.eu"></a>"\t"xuventude.pontevedra.eu</string>
+    <string name="principal5"><a href="www.noitesabertas.gal"></a>"\t"www.noitesabertas.gal</string>
+    <string name="principal6"><a href="www.facebook.com/noitesabertas">"\t"www.facebook.com/noitesabertas</a></string>
+    <string name="principal7"><a href="www.twitter.com/noitesabertas">"\t"www.twitter.com/noitesabertas</a></string>
+
+</resources>

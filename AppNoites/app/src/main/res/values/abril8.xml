@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aa81">
+        <!--0-->   <item>Danza Contemporánea</item>
+        <!--0-->   <item>Desinhibición na rúa</item>
+        <!--0-->   <item>Concerto:Fest</item>
+        <!--0-->   <item>Estrea documental NNAA?</item>
+
+    </string-array>
+    <string-array name="ha81">
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+        <!--0-->   <item>18-22h</item>
+    </string-array>
+</resources>

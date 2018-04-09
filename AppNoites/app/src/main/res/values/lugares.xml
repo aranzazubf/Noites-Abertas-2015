@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="localizaciones1"><b><u>ESPAZOS DE NOITES ABERTAS</u></b></string>
+    <string name="localizaciones2"><b>CAMPOS DE HERBA SINTÉTICA</b></string>
+    <string name="localizaciones3"><b>CASA AZUL</b></string>
+    <string name="localizaciones4"><b>CEIP FROEBEL</b></string>
+    <string name="localizaciones5"><b>LOCAL DE MÚSICA </b></string>
+    <string name="localizaciones6"><b>PARQUE DE CANS</b></string>
+    <string name="localizaciones7"><b>PAVILLÓN MULTIUSOS</b></string>
+    <string name="localizaciones8"><b>PAVILLÓN MUNICIPAL DOS DEPORTES</b></string>
+    <string name="localizaciones9"><b>PAZO DA CULTURA: XVI Salón do Libro Infantil e Xuvenil de Pontevedra</b></string>
+    <string name="localizaciones10"><b>PISTAS DE CAMPOLONGO</b></string>
+    <string name="localizaciones11"><b>PRAIA FLUVIAL DO LÉREZ</b></string>
+    <string name="localizaciones12"><b>PRAZA DE ABASTOS</b></string>
+    <string name="localizaciones13"><b>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</b></string>
+
+    <string name="localizaciones14"><b>PRAZA DA PEREGRINA</b></string>
+    <string name="localizaciones15"><b>PRAZA DE SANTA MARÍA</b></string>
+    <string name="localizaciones16"><b>SENDEIRO DO RIO LÉREZ</b></string>
+    <string name="localizaciones17"><b>SENDEIRO DO RIO GAFOS</b></string>
+    <string name="localizaciones18"><b>TEATRO PRINCIPAL</b></string>
+
+
+    <string-array name="Lugares">
+<!--0-->   <item>CAMPOS DE HERBA SINTÉTICA DA XUNQUEIRA</item>
+<!--1-->   <item>CASA AZUL</item>
+<!--2-->   <item>CEIP FROEBEL</item>
+<!--3-->   <item>LOCAL DE MÚSICA</item>
+<!--4-->   <item>PARQUE DE CANS</item>
+<!--5-->   <item>PAVILLÓN MULTIUSOS DA XUNQUEIRA</item>
+<!--6-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+<!--7-->   <item>PAZO DA CULTURA</item>
+<!--8-->   <item>PISTAS DE CAMPOLONGO</item>
+<!--9-->   <item>PRAIA FLUVIAL DO LEREZ</item>
+<!--10-->  <item>PRAZA DE ABASTOS</item>
+<!--11-->  <item>PRAZA DE CURROS ENRIQUEZ E CASINO MERCANTIL</item>
+<!--12-->  <item>PRAZA DA PEREGRINA</item>
+<!--13-->  <item>PRAZA DE SANTA MARÍA</item>
+<!--14-->  <item>SENDA DO LEREZ</item>
+<!--15-->  <item>SENDEIRO DO RÍO GAFOS</item>
+<!--16-->  <item>TEATRO PRINCIPAL</item>
+<!--17-->  <item>SAÍDA DIANTE DA ESTACIÓN DE AUTOBUSES</item>
+
+    </string-array>
+    <string-array name="Direcciones">
+        <!--0-->   <item></item>
+        <!--1-->   <item>Rúa Harmana Lucía, 4, 36002 Pontevedra, Pontevedra, España</item>
+        <!--2-->   <item>Rúa Princesa, 2-12, 36002 Pontevedra, Pontevedra, España</item>
+        <!--3-->   <item>Rúa Ramón Otero Pedraio, 8B, 36003 Pontevedra, Pontevedra, España</item>
+        <!--4-->   <item>Parque de Cans</item>
+        <!--5-->   <item>Rúa Celso Emilio Ferreiro, 36005 Pontevedra, Pontevedra, España</item>
+        <!--6-->   <item>Polideportivo, 36005 Pontevedra, Pontevedra, España</item>
+        <!--7-->   <item>Calle de Alexandre Bóveda, s/n, 36005 Pontevedra, España ‎</item>
+        <!--8-->   <item>Campolongo,36001 Pontevedra, España ‎</item>
+        <!--9-->   <item>Praia Fluvial do Canal,Río Lérez, 36120, Pontevedra, España</item>
+        <!--10-->  <item>Mercado de Abastos,36002 Pontevedra, España</item>
+        <!--11-->  <item>Plaza Curros Enríquez, 1, 36002 Pontevedra, Pontevedra, España</item>
+        <!--12-->  <item>A Peregrina, 36001 Pontevedra, Pontevedra, España</item>
+        <!--13-->  <item>Av Santa María, 15, 36002 Pontevedra, Pontevedra, España</item>
+        <!--14-->  <item>Río Lerez</item>
+        <!--15-->  <item>Río Gafos</item>
+        <!--16-->  <item>Rúa Duque de Tetuán, 6, 36002 Pontevedra, Pontevedra, España</item>
+        <!--17-->  <item>Rúa da Estación, 10, 36003 Pontevedra, Pontevedra, España</item>
+
+    </string-array>
+    <array name="Coordenadas">
+        <!--0-->   <item>42.437493,-8.635046</item>
+        <!--1-->   <item>42.433965,-8.646367</item>
+        <!--2-->   <item>42.433456,-8.645793</item>
+        <!--3-->   <item>42.419498,-8.636587</item>
+        <!--4-->   <item>42.449301,-8.640368</item>
+        <!--5-->   <item>42.438255,-8.637644</item>
+        <!--6-->   <item>42.436731,-8.641748</item>
+        <!--7-->   <item>42.435573,-8.637915</item>
+        <!--8-->   <item>42.426458,-8.645318</item>
+        <!--9-->   <item>42.458632,-8.574674</item>
+        <!--10-->  <item>42.434234,-8.643526</item>
+        <!--11-->  <item>42.432184,-8.645192</item>
+        <!--12-->  <item>42.430837,-8.643687</item>
+        <!--13-->  <item>42.432789,-8.647456</item>
+        <!--14-->  <item>42.440088,-8.632889</item>
+        <!--15-->  <item>42.421023,-8.638081</item>
+       <!--16-->  <item>42.432661,-8.646265</item>
+        <!--17-->  <item>42.421817,-8.637304</item>
+
+    </array>
+
+
+    <string-array name="Xaneiro1">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Xaneiro2">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>CAMPOS DE HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Xaneiro3">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Xaneiro4">
+        <!--0-->   <item>SAÍDA DIANTE DA ESTACIÓN DE BUSES</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+        <!--4-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+
+    <string-array name="Febreiro1">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro2">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>CAMPOS DE HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Febreiro3">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro4">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>PRAZA DE SANTA MARÍA</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro5">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Febreiro6">
+        <!--0-->   <item>PRAZA DE ABASTOS</item>
+        <!--1-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+
+
+    <string-array name="Marzo1">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Marzo2">
+        <!--0-->   <item>SAÍDA DIANTE DA PONTE DOS TIRANTES</item>
+        <!--1-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--6-->   <item>CAMPOS HERBA SINTÉTICA</item>
+    </string-array>
+    <string-array name="Marzo3">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--4-->   <item>Saída diante PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    </string-array>
+    <string-array name="Marzo4">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Marzo5">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PRAZA SANTA MARÍA</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+        <!--5-->   <item>Saída do PALCO DA MÚSICA DA ALAMEDA</item>
+    </string-array>
+    <string-array name="Marzo6">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Marzo7">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+    </string-array>
+    <string-array name="Marzo8">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PRAZA SANTA MARÍA</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>PAVILLÓN MUNICIPAL DOS DEPORTES</item>
+    </string-array>
+    <string-array name="Marzo9">
+        <!--0-->   <item>PAZO DA CULTURA: XVI Salón do Libro</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>TEATRO PRINCIPAL : XVI Salón do Libro</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+        <!--5-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--6-->   <item>CAMPOS HERBA SINTÉTICA</item>
+    </string-array>
+
+    <string-array name="Abril1">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril2">
+        <!--0-->   <item>FROEBEL</item>
+    </string-array>
+    <string-array name="Abril3">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>PRAIA FLUVIAL DO LÉREZ</item>
+        <!--2-->   <item>FROEBEL</item>
+        <!--3-->   <item>CASA AZUL</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril4">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>CASA AZUL</item>
+        <!--2-->   <item>PISTAS DEPORTIVAS DE CAMPOLONGO</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+        <!--4-->   <item>TEATRO PRINCIPAL</item>
+    </string-array>
+    <string-array name="Abril5">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PRAZA DO CONCELLO</item>
+        <!--4-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril6">
+        <!--0-->   <item>FROEBEL</item>
+        <!--1-->   <item>PRAZA SANTA MARÍA</item>
+        <!--2-->   <item>CASA AZUL</item>
+        <!--3-->   <item>PAVILLÓN MULTIUSOS</item>
+    </string-array>
+    <string-array name="Abril7">
+        <!--0-->   <item>PARQUE CANS</item>
+        <!--1-->   <item>FROEBEL</item>
+        <!--2-->   <item>PZA PEREGRINA</item>
+        <!--3-->   <item>PRAZA SANTA MARÍA</item>
+        <!--4-->   <item>CASA AZUL</item>
+        <!--5-->   <item>LOCAL DE MÚSICA</item>
+    </string-array>
+    <string-array name="Abril8">
+        <!--0-->   <item>PRAZA DE CURROS ENRÍQUEZ E CASINO MERCANTIL</item>
+    </string-array>
+</resources>

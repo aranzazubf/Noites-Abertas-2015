@@ -1,0 +1,59 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fuentes="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+  
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical" >
+
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo1_pestañas"
+            android:text="@string/col2"
+            android:textStyle="bold"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+             style="@style/estilo2_pestañas"
+           android:gravity="center_horizontal"
+            android:text="@string/col3"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_pestañas"
+          
+            android:text="@string/col4"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+             style="@style/estilo2_pestañas"
+            android:gravity="center_horizontal"
+                        android:text="@string/col5"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_pestañas"
+           
+            android:text="@string/col6"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+              style="@style/estilo1_pestañas"
+           
+            android:text="@string/col7"
+            fuentes:fuente="Museo" />
+
+        <com.aranzazu.appnoites15.CustomTextView
+            style="@style/estilo3_pestañas"
+            
+            android:text="@string/col8"
+            fuentes:fuente="Museo" />
+
+
+    </LinearLayout>
+
+</ScrollView>

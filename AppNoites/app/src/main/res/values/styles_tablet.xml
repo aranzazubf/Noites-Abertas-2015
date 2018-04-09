@@ -1,0 +1,134 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--  ESTILOS SMARTPHONES NORMAL -->
+    <!-- Estilo 1: Título botón principal  -->
+    <style name="estilo_boton_principal_tablet">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/mancha_programa</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:onClick">sendMessagep"</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- Estilo 1: Títulos de color Negro  -->
+    <!-- Estilo 1: Actividad Principal tiene que tener margenes izquierdos  -->
+    <style name="estilo1_tablet">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <!-- Estilo 1 pestañas:Va en los títulos de todas las pestañas y en el nombre de los lugares
+       de la programación de cada día-->
+    <style name="estilo1_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- Estilo 2: Títulos de color Negro pero más pequeños  -->
+    <style name="estilo2_tablet">
+        <item name="android:typeface">serif</item>
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="estilo2_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/Black</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <!-- Estilo 2 horas: En childDía, la lista de actividades de cada mes, se refiere al horario  -->
+    <style name="estilo2_horas_tablet">
+    <item name="fuente">Museo</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:textColor">@color/Black</item>
+    <item name="android:typeface">serif</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item></style>
+    <!-- Estilo 3: Títulos de color Blanco  -->
+    <style name="estilo3_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textColorLink">@color/White</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_marginRight">5dip</item>
+    </style>
+    <style name="estilo3_pestañas_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColorLink">@color/Black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:paddingRight">15dip</item>
+    </style>
+    <!-- Estilo 3 actividades: En childDía, la lista de actividades de cada mes, se refiere a las actividades  -->
+    <style name="estilo3_actividades_tablet">
+        <item name="fuente">Museo</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:autoLink">web</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5dip</item>
+    </style>
+
+    <style name="estilo3_descripciones_tablet">
+
+    <item name="fuente">Museo</item>
+    <item name="android:typeface">serif</item>
+        <item name="android:autoLink">web</item>
+    <item name="android:textColor">#e4072f</item>
+        <item name="android:textColorLink">@color/White</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:layout_gravity">center_vertical</item>
+    <item name="android:gravity">start</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:padding">5dip</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_margin">4dp</item>
+    </style>
+
+
+</resources>

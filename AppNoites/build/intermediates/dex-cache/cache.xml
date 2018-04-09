@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\pre-dexed\debug\classes-fedb327285f01cf2755d623645623398e52d4d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arantxa\Desktop\ANDROID\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c4e4ad6754bcbbc175c7c4e96284aee23c1ef8f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\pre-dexed\debug\classes-1dc89cf50ff8edf30cd88b4d5e59cd536696e9a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Arantxa\AndroidstudioProjects\AppNoites\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ab44392ae21011ee12d67ac427cf82685467ada6.jar" />
+    </item>
+
+</items>

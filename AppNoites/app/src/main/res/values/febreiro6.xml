@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="af61">
+        <!--0-->   <item>Visita á praza de abastos e elaboración de superbatidos</item>
+    </string-array>
+    <string-array name="hf61">
+        <!--0-->   <item>12-14,30h</item>
+    </string-array>
+    <string-array name="af62">
+        <!--0-->   <item>Manualidades: papaventos</item>
+        <!--1-->   <item>“Mañá foi domingo: as viaxes no tempo na literatura</item>
+    </string-array>
+    <string-array name="hf62">
+        <!--0-->   <item>19-20,30h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="af63">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Facemos pan?</item>
+        <!--3-->   <item>3X3 Baloncesto en cadeira de rodas para todxs</item>
+    </string-array>
+    <string-array name="hf63">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23h</item>
+        <!--3-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af64">
+        <!--0-->   <item>Repostaría internacional</item>
+        <!--1-->   <item>Baile galego (iniciación)</item>
+    </string-array>
+    <string-array name="hf64">
+        <!--0-->   <item>21-22,30h</item>
+        <!--1-->   <item>19,30-21h</item>
+    </string-array>
+    <string-array name="af65">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Guitarra Funky Blues (iniciación)</item>
+        <!--2-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="hf65">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af66">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <string-array name="hf66">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+</resources>

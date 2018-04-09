@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="af21">
+        <!--0-->   <item>Patinaxe e xoquei patíns</item>
+        <!--1-->   <item>Tenis de mesa libre</item>
+        <!--2-->   <item>Do it yourself: roupa e decoración</item>
+        <!--3-->   <item>3X3 Baloncesto en cadeira de rodas para todxs</item>
+        <!--4-->   <item>Lámpadas e bolas decorativas</item>
+    </string-array>
+    <string-array name="hf21">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20,30-23,30h</item>
+        <!--2-->   <item>21-23,30h</item>
+        <!--3-->   <item>22-00h</item>
+        <!--4-->   <item>22-23h</item>
+    </string-array>
+    <string-array name="af22">
+        <!--0-->   <item>Baile galego (iniciación)</item>
+        <!--1-->   <item>Cociña para estudantes: pasta con vexetais</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="hf22">
+        <!--0-->   <item>19,30-21h</item>
+        <!--1-->   <item>21-23h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    20-22h. Gaita galega (iniciación)
+    20-22h. Combo de improvisación (iniciación)
+    22-00h. Coro moderno (iniciación)
+
+    <string-array name="af23">
+        <!--0-->   <item>Gaita galega (iniciación)</item>
+        <!--1-->   <item>Combo de improvisación (iniciación)</item>
+        <!--2-->   <item>Coro moderno (iniciación)</item>
+    </string-array>
+    <string-array name="hf23">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af24">
+        <!--0-->   <item>Rugby</item>
+        <!--1-->   <item>Billarda</item>
+    </string-array>
+    <string-array name="hf24">
+        <!--0-->   <item>21-23h</item>
+        <!--1-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="af25">
+        <!--0-->   <item>Fútbol 7</item>
+    </string-array>
+    <string-array name="hf25">
+        <!--0-->   <item>22-01h</item>
+    </string-array>
+
+
+
+
+
+</resources>

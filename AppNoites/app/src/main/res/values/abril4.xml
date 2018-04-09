@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="aa41">
+        <!--0-->   <item>III Torneo de Magic NNAA: Modern</item>
+        <!--1-->   <item>Amigurumis</item>
+        <!--2-->   <item>Camisetas e bolsos “Batik”</item>
+        <!--3-->   <item>Tenis de mesa libre</item>
+        <!--4-->   <item>TeleNoites</item>
+        <!--5-->   <item>ZumbaR</item>
+        <!--6-->   <item>Patinaxe Slalom (iniciación)</item>
+    </string-array>
+    <string-array name="ha41">
+        <!--0-->   <item>18-00h</item>
+        <!--0-->   <item>20-23h</item>
+        <!--0-->   <item>19-21h</item>
+        <!--0-->   <item>20,30-23,30h</item>
+        <!--0-->   <item>21h</item>
+        <!--0-->   <item>22-23h</item>
+        <!--0-->   <item>21-22h</item>
+    </string-array>
+    <string-array name="aa42">
+        <!--0-->   <item>Danza contemporánea</item>
+        <!--1-->   <item>Relaxación divertida</item>
+        <!--2-->   <item>Sushi, delicia xaponesa</item>
+    </string-array>
+    <string-array name="ha42">
+        <!--0-->   <item>20-21,30h</item>
+        <!--0-->   <item>22-00h</item>
+        <!--0-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="aa43">
+        <!--0-->   <item>Graffiti: exhibición</item>
+    </string-array>
+    <string-array name="ha43">
+        <!--0-->   <item>20,30-00h</item>
+    </string-array>
+    <string-array name="aa44">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <string-array name="ha44">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+    18h. Certame Fest 2015
+    <string-array name="aa45">
+        <!--0-->   <item>Certame Fest 2015</item>
+    </string-array>
+    <string-array name="ha45">
+        <!--0-->   <item>18h</item>
+    </string-array>
+</resources>

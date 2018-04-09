@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="af31">
+        <!--0-->   <item>Esgrima e loita escénica</item>
+        <!--1-->   <item>Ganchillar é doado</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Xadrez: iniciación</item>
+        <!--4-->   <item>Xadrez: partidas rápidas</item>
+        <!--5-->   <item>Baile latino</item>
+        <!--6-->   <item>Cócteles sen alcohol</item>
+    </string-array>
+    <string-array name="hf31">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-00h</item>
+        <!--4-->   <item>21-00h</item>
+        <!--5-->   <item>22-23,30h</item>
+        <!--6-->   <item>21-22h</item>
+    </string-array>
+    <string-array name="af32">
+        <!--0-->   <item>Taichí e chikung: artes marciais internas</item>
+        <!--1-->   <item>Mecánica básica de bicis</item>
+        <!--2-->   <item>Constrúe instrumentos musicais de refugallo</item>
+        <!--3-->   <item>Masaxe tailandesa</item>
+    </string-array>
+    <string-array name="hf32">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>22-00h</item>
+        <!--3-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="af33">
+        <!--0-->   <item>Dj Mixing e produción</item>
+        <!--0-->   <item>Percusión tradicional (pandeireta, tambor, cunchas, tarrañolas...)</item>
+    </string-array>
+    <string-array name="hf33">
+        <!--0-->   <item>20,30-22,30h</item>
+        <!--0-->   <item>22-23h</item>
+    </string-array>
+</resources>

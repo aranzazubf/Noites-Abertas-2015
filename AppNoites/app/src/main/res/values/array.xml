@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    ACTIVIDADES  -->
+<string name="actividades_programa"><b><u>ACTIVIDADES NOITES ABERTAS 2015</u></b></string>
+    <!-- *******************************************************PROGRAMA***************************************** -->
+
+
+    <!--   PROGRAMA: DIAS -->
+
+    <string-array name="xaneiro">
+        <item>Venres 23</item>
+        <item>Sabado 24</item>
+        <item>Venres 30</item>
+        <item>Sabado 31</item>
+    </string-array>
+    <string-array name="febreiro">
+
+        <item>Venres 6</item>
+        <item>Sabado 7</item>
+        <item>Venres 13</item>
+        <item>Venres 20</item>
+        <item>Venres 27</item>
+        <item>Sabado 28</item>
+    </string-array>
+    <string-array name="marzo">
+        <item>Venres 6</item>
+        <item>Sabado 7</item>
+        <item>Venres 13</item>
+        <item>Sabado 14</item>
+        <item>Venres 20</item>
+        <item>Sabado 21</item>
+        <item>Xoves 26</item>
+        <item>Venres 27</item>
+        <item>Sabado 28</item>
+    </string-array>
+    <string-array name="abril">
+        <item>Venres 3</item>
+        <item>Sabado 4</item>
+        <item>Venres 10</item>
+        <item>Sabado 11</item>
+        <item>Venres 17 </item>
+        <item>Sabado 18 </item>
+        <item>Venres 24</item>
+        <item>Sabado 25</item>
+    </string-array>
+</resources>

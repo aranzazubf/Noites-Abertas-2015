@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inicio1"><b><u>COUSAS QUE TES QUE SABER SOBRE AS ACTIVIDADES</u></b></string>
+    <string name="inicio2"><b>De balde:</b></string>
+    <string name="inicio2b">Todas as actividades son gratuítas.</string>
+    <string name="inicio3"><b>Prazas dispoñibles:</b></string>
+    <string name="inicio3b">Algunhas actividades teñen límite no nº de participantes para o que se farán sorteos das prazas se chegado o caso hai
+máis participantes ca prazas dispoñibles.</string>
+    <string name="inicio4"><b>Inscrición previa:</b>.</string>
+    <string name="inicio4b">Algunhas actividades requiren inscrición previa na Oficina de Xuventude chamando ao 986 840367 (de luns a venres e de 9 a 14h) ou a través de <a href="xuventude@pontevedra.eu">xuventude@pontevedra.eu</a>:
+“PonteCaching: na procura das orixes da cidade” , observación astronómica, IIITorneo de Magic NNAA, paseo nocturno polo Gafos, ruta guiada polo Lérez, descobre o teatro por dentro, Torneo de fútbol sala.
+Acceso sen inscrición sempre que quedaran prazas dispoñibles.</string>
+    <string name="inicio5"><b>Debes levar...</b></string>
+    <string name="inicio5b">Fíxate nas iconas dalgunhas actividades, son avisos importantes do que tes que saber antes de acudir á actividade.</string>
+    <string name="inicio6"><b><u>IDADES</u></b></string>
+    <string name="inicio6b">Todas as actividades van dirixidas a mozos e mozas de 12 a 30 anos, agás as que se dirixen a mozos/as maiores de:</string>
+    <string name="inicio7"><i>14 anos</i></string>
+    <string name="inicio7b">Esgrima e loita escénica, tiro con arco, obradoiro de sexualidade, ruta en patíns, xogando a meditar e coro moderno</string>
+    <string name="inicio8"><i>16 anos</i></string>
+    <string name="inicio8b">Desinhibición de rúa, masaxe tailandesa, improvisación coa guitarra, compoñer unha canción, combo de improvisación, guitarra funky e blues, visita á praza de abastos e elaboración de superbatidos, cociña enerxética, Do it yourself: roupa e decoración, Amor e Sexo: mitos, retoque fotográfico, Pontevedra 360º: fotos panorámicas, Time Lapse: vídeos con fotos, repostaría internacional, adestramento canino, obradoiro de ligue e sedución, Ponte-caching: na procura das orixes da cidade, constrúe instrumentos musicais de refugallo, fotografía do 1851: colodión húmido, laboratorio nocturno:experimentos científicos e "Descobre o teatro por dentro"</string>
+    <string name="inicio9"><i>18 anos</i></string>
+    <string name="inicio9b">Travesía en kaiak polas pontes do Lérez, ruta cicloturística nocturna, ligar con lingua de signos e defensa persoal-hapkido</string>
+    <string name="inicio10"><u><b>CARNÉ DE SOCIO/A:</b></u></string>
+    <string name="inicio10b">Fai o teu carné de socio/a."\n"Non é requisito para entrar nas actividades pero permíteche participar nos sorteos de bonos para mercar libros de letura</string>
+    <string name="inicio11"><u><b>PROGRAMA DE ACOMPAÑAMENTO NO OCIO DE NOITES ABERTAS A PERSOAS CON DISCAPACIDADE INTELECTUAL:</b></u></string>
+    <string name="inicio11b">En colaboración coa Asociación de Síndrome de Down "Xuntos", este programa permite formar un grupo con acompañante para acudir  ás actividades, nas que logo se participa libremente, cada quen en función dos seus intereses e xa sen acompañamento. Persoas interesadas contactar coa asociación: 986 865 538 </string>
+    <string name="inicio12"><b>Comparte a experiencia cos teus amigos</b></string>
+</resources>

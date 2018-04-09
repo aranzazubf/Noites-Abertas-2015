@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am51">
+        <!--0-->   <item>Encadernación e deseño de cubertas</item>
+        <!--1-->   <item>Astronomía: da ciencia á ficción</item>
+    </string-array>
+    <string-array name="hm51">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="am52">
+        <!--0-->   <item>Hula hooping- Hula dance</item>
+        <!--1-->   <item>Pintura-Plakatstil</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Coiro: moedeiro</item>
+        <!--4-->   <item>Repostaría internacional</item>
+    </string-array>
+    <string-array name="hm52">
+        <!--0-->   <item>20-21,30h</item>
+        <!--1-->   <item>20,30-23h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-22,30h</item>
+    </string-array>
+    <string-array name="am53">
+        <!--0-->   <item>LongBoard-LongSkate</item>
+    </string-array>
+    <string-array name="hm53">
+        <!--0-->   <item>20,30-22,30h</item>
+    </string-array>
+    <string-array name="am54">
+        <!--0-->   <item>Pontevedra 360º: fotos panorámicas</item>
+        <!--1-->   <item>Xogando a meditar</item>
+    </string-array>
+    <string-array name="hm54">
+        <!--0-->   <item>21-00h</item>
+        <!--1-->   <item>22-00h</item>
+    </string-array>
+    <string-array name="am55">
+        <!--0-->   <item>Defensa persoal.  Hapkido</item>
+    </string-array>
+    <string-array name="hm55">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+    <string-array name="am56">
+        <!--0-->   <item>Ponte-caching: na procura das orixes da cidade</item>
+    </string-array>
+    <string-array name="hm56">
+        <!--0-->   <item>21-23h</item>
+    </string-array>
+</resources>

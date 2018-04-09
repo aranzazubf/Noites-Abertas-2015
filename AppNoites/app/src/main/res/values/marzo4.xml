@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="am41">
+        <!--0-->   <item>Laboratorio nocturno: experimentos científicos</item>
+        <!--1-->   <item>Virus e zombies</item>
+    </string-array>
+    <string-array name="hm41">
+        <!--0-->   <item>19-21h</item>
+        <!--1-->   <item>19-21h</item>
+    </string-array>
+    <string-array name="am42">
+        <!--0-->   <item>TeleNoites</item>
+        <!--1-->   <item>Atelier Postal: arte postal</item>
+        <!--2-->   <item>Tenis de mesa libre</item>
+        <!--3-->   <item>Cociña para estudantes: cociña galega do SXXI</item>
+        <!--4-->   <item>Do it yourself: roupa e decoración</item>
+        <!--5-->   <item>ZumbaR</item>
+        <!--6-->   <item>Arte con pintura inflable</item>
+    </string-array>
+    <string-array name="hm42">
+        <!--0-->   <item>20h</item>
+        <!--1-->   <item>20-22h</item>
+        <!--2-->   <item>20,30-23,30h</item>
+        <!--3-->   <item>21-23h</item>
+        <!--4-->   <item>21-23,30h</item>
+        <!--5-->   <item>22-23h</item>
+        <!--6-->   <item>22-23,30h</item>
+    </string-array>
+    <string-array name="am43">
+        <!--0-->   <item>Elaboración dun herbario</item>
+        <!--1-->   <item>Danza contemporánea</item>
+        <!--2-->   <item>Hip Hop</item>
+    </string-array>
+    <string-array name="hm43">
+        <!--0-->   <item>20-22h</item>
+        <!--1-->   <item>20-21,30h</item>
+        <!--2-->   <item>21,30-23h</item>
+    </string-array>
+    <string-array name="am44">
+        <!--0-->   <item>Fútbol sala</item>
+    </string-array>
+    <string-array name="hm44">
+        <!--0-->   <item>21-00h</item>
+    </string-array>
+</resources>
